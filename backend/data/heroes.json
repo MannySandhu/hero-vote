@@ -1,0 +1,4711 @@
+[
+    {
+        "id": 1,
+        "name": "Hero1",
+        "image": "https://example.com/hero1.jpg",
+        "intelligence": 91,
+        "strength": 87,
+        "speed": 66,
+        "durability": 99,
+        "power": 64,
+        "combat": 58,
+        "voteCount": 457,
+        "lastVotedAt": "2025-02-03T18:28:23.081340",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081367",
+                "intelligence": 44,
+                "strength": 45,
+                "speed": 70,
+                "durability": 48,
+                "power": 43,
+                "combat": 41
+            }
+        ],
+        "trend": "steady",
+        "rank": 53,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.081382",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Hero2",
+        "image": "https://example.com/hero2.jpg",
+        "intelligence": 35,
+        "strength": 85,
+        "speed": 62,
+        "durability": 47,
+        "power": 32,
+        "combat": 36,
+        "voteCount": 454,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081394",
+                "intelligence": 67,
+                "strength": 57,
+                "speed": 93,
+                "durability": 40,
+                "power": 32,
+                "combat": 97
+            },
+            {
+                "date": "2025-02-05T18:28:23.081401",
+                "intelligence": 83,
+                "strength": 55,
+                "speed": 47,
+                "durability": 61,
+                "power": 66,
+                "combat": 99
+            },
+            {
+                "date": "2025-01-29T18:28:23.081408",
+                "intelligence": 98,
+                "strength": 82,
+                "speed": 72,
+                "durability": 56,
+                "power": 79,
+                "combat": 68
+            }
+        ],
+        "trend": "falling",
+        "rank": 14,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.081417",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Hero3",
+        "image": "https://example.com/hero3.jpg",
+        "intelligence": 96,
+        "strength": 42,
+        "speed": 42,
+        "durability": 60,
+        "power": 77,
+        "combat": 84,
+        "voteCount": 283,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081430",
+                "intelligence": 51,
+                "strength": 64,
+                "speed": 61,
+                "durability": 80,
+                "power": 44,
+                "combat": 81
+            },
+            {
+                "date": "2025-02-05T18:28:23.081442",
+                "intelligence": 65,
+                "strength": 90,
+                "speed": 74,
+                "durability": 45,
+                "power": 74,
+                "combat": 79
+            },
+            {
+                "date": "2025-01-29T18:28:23.081457",
+                "intelligence": 72,
+                "strength": 74,
+                "speed": 44,
+                "durability": 49,
+                "power": 57,
+                "combat": 39
+            }
+        ],
+        "trend": "steady",
+        "rank": 26,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.081475",
+        "status": "inactive"
+    },
+    {
+        "id": 4,
+        "name": "Hero4",
+        "image": "https://example.com/hero4.jpg",
+        "intelligence": 61,
+        "strength": 99,
+        "speed": 88,
+        "durability": 94,
+        "power": 30,
+        "combat": 76,
+        "voteCount": 86,
+        "lastVotedAt": "2025-01-27T18:28:23.081488",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081497",
+                "intelligence": 99,
+                "strength": 80,
+                "speed": 39,
+                "durability": 48,
+                "power": 62,
+                "combat": 78
+            },
+            {
+                "date": "2025-02-05T18:28:23.081506",
+                "intelligence": 51,
+                "strength": 48,
+                "speed": 97,
+                "durability": 61,
+                "power": 35,
+                "combat": 35
+            },
+            {
+                "date": "2025-01-29T18:28:23.081516",
+                "intelligence": 84,
+                "strength": 94,
+                "speed": 83,
+                "durability": 50,
+                "power": 56,
+                "combat": 32
+            }
+        ],
+        "trend": "steady",
+        "rank": 29,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.081531",
+        "status": "inactive"
+    },
+    {
+        "id": 5,
+        "name": "Hero5",
+        "image": "https://example.com/hero5.jpg",
+        "intelligence": 92,
+        "strength": 95,
+        "speed": 50,
+        "durability": 71,
+        "power": 51,
+        "combat": 40,
+        "voteCount": 145,
+        "lastVotedAt": "2025-02-12T18:28:23.081545",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081553",
+                "intelligence": 95,
+                "strength": 53,
+                "speed": 92,
+                "durability": 74,
+                "power": 85,
+                "combat": 32
+            },
+            {
+                "date": "2025-02-05T18:28:23.081564",
+                "intelligence": 52,
+                "strength": 47,
+                "speed": 60,
+                "durability": 71,
+                "power": 66,
+                "combat": 33
+            },
+            {
+                "date": "2025-01-29T18:28:23.081574",
+                "intelligence": 65,
+                "strength": 81,
+                "speed": 94,
+                "durability": 75,
+                "power": 40,
+                "combat": 87
+            },
+            {
+                "date": "2025-01-22T18:28:23.081585",
+                "intelligence": 99,
+                "strength": 52,
+                "speed": 95,
+                "durability": 71,
+                "power": 75,
+                "combat": 99
+            }
+        ],
+        "trend": "rising",
+        "rank": 47,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.081600",
+        "status": "inactive"
+    },
+    {
+        "id": 6,
+        "name": "Hero6",
+        "image": "https://example.com/hero6.jpg",
+        "intelligence": 55,
+        "strength": 77,
+        "speed": 56,
+        "durability": 42,
+        "power": 63,
+        "combat": 60,
+        "voteCount": 371,
+        "lastVotedAt": "2025-02-01T18:28:23.081615",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081637",
+                "intelligence": 87,
+                "strength": 84,
+                "speed": 34,
+                "durability": 49,
+                "power": 87,
+                "combat": 68
+            }
+        ],
+        "trend": "steady",
+        "rank": 45,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.081653",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "Hero7",
+        "image": "https://example.com/hero7.jpg",
+        "intelligence": 83,
+        "strength": 67,
+        "speed": 45,
+        "durability": 86,
+        "power": 90,
+        "combat": 62,
+        "voteCount": 387,
+        "lastVotedAt": "2025-01-22T18:28:23.081669",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081677",
+                "intelligence": 95,
+                "strength": 91,
+                "speed": 96,
+                "durability": 98,
+                "power": 43,
+                "combat": 87
+            },
+            {
+                "date": "2025-02-05T18:28:23.081690",
+                "intelligence": 92,
+                "strength": 77,
+                "speed": 38,
+                "durability": 87,
+                "power": 47,
+                "combat": 41
+            },
+            {
+                "date": "2025-01-29T18:28:23.081700",
+                "intelligence": 63,
+                "strength": 45,
+                "speed": 56,
+                "durability": 81,
+                "power": 89,
+                "combat": 50
+            }
+        ],
+        "trend": "falling",
+        "rank": 51,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.081715",
+        "status": "inactive"
+    },
+    {
+        "id": 8,
+        "name": "Hero8",
+        "image": "https://example.com/hero8.jpg",
+        "intelligence": 87,
+        "strength": 59,
+        "speed": 76,
+        "durability": 48,
+        "power": 87,
+        "combat": 96,
+        "voteCount": 224,
+        "lastVotedAt": "2025-01-30T18:28:23.081733",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081743",
+                "intelligence": 70,
+                "strength": 39,
+                "speed": 59,
+                "durability": 69,
+                "power": 68,
+                "combat": 68
+            },
+            {
+                "date": "2025-02-05T18:28:23.081756",
+                "intelligence": 57,
+                "strength": 73,
+                "speed": 44,
+                "durability": 77,
+                "power": 70,
+                "combat": 38
+            },
+            {
+                "date": "2025-01-29T18:28:23.081898",
+                "intelligence": 68,
+                "strength": 43,
+                "speed": 74,
+                "durability": 77,
+                "power": 51,
+                "combat": 49
+            }
+        ],
+        "trend": "rising",
+        "rank": 87,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.081917",
+        "status": "inactive"
+    },
+    {
+        "id": 9,
+        "name": "Hero9",
+        "image": "https://example.com/hero9.jpg",
+        "intelligence": 74,
+        "strength": 31,
+        "speed": 99,
+        "durability": 38,
+        "power": 59,
+        "combat": 72,
+        "voteCount": 463,
+        "lastVotedAt": "2025-01-20T18:28:23.081930",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081940",
+                "intelligence": 74,
+                "strength": 46,
+                "speed": 70,
+                "durability": 50,
+                "power": 83,
+                "combat": 64
+            }
+        ],
+        "trend": "rising",
+        "rank": 34,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.081954",
+        "status": "inactive"
+    },
+    {
+        "id": 10,
+        "name": "Hero10",
+        "image": "https://example.com/hero10.jpg",
+        "intelligence": 61,
+        "strength": 94,
+        "speed": 90,
+        "durability": 63,
+        "power": 84,
+        "combat": 66,
+        "voteCount": 50,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.081968",
+                "intelligence": 93,
+                "strength": 73,
+                "speed": 46,
+                "durability": 90,
+                "power": 54,
+                "combat": 83
+            },
+            {
+                "date": "2025-02-05T18:28:23.081979",
+                "intelligence": 60,
+                "strength": 98,
+                "speed": 71,
+                "durability": 92,
+                "power": 50,
+                "combat": 30
+            }
+        ],
+        "trend": "steady",
+        "rank": 11,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.081993",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "name": "Hero11",
+        "image": "https://example.com/hero11.jpg",
+        "intelligence": 94,
+        "strength": 41,
+        "speed": 96,
+        "durability": 84,
+        "power": 43,
+        "combat": 59,
+        "voteCount": 387,
+        "lastVotedAt": "2025-02-03T18:28:23.082006",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082014",
+                "intelligence": 88,
+                "strength": 72,
+                "speed": 93,
+                "durability": 95,
+                "power": 78,
+                "combat": 98
+            },
+            {
+                "date": "2025-02-05T18:28:23.082023",
+                "intelligence": 67,
+                "strength": 99,
+                "speed": 89,
+                "durability": 97,
+                "power": 43,
+                "combat": 97
+            }
+        ],
+        "trend": "rising",
+        "rank": 13,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.082037",
+        "status": "inactive"
+    },
+    {
+        "id": 12,
+        "name": "Hero12",
+        "image": "https://example.com/hero12.jpg",
+        "intelligence": 48,
+        "strength": 91,
+        "speed": 48,
+        "durability": 84,
+        "power": 68,
+        "combat": 74,
+        "voteCount": 235,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082050",
+                "intelligence": 42,
+                "strength": 83,
+                "speed": 98,
+                "durability": 96,
+                "power": 89,
+                "combat": 96
+            },
+            {
+                "date": "2025-02-05T18:28:23.082057",
+                "intelligence": 63,
+                "strength": 32,
+                "speed": 88,
+                "durability": 85,
+                "power": 52,
+                "combat": 65
+            },
+            {
+                "date": "2025-01-29T18:28:23.082077",
+                "intelligence": 99,
+                "strength": 40,
+                "speed": 30,
+                "durability": 87,
+                "power": 84,
+                "combat": 67
+            },
+            {
+                "date": "2025-01-22T18:28:23.082083",
+                "intelligence": 95,
+                "strength": 66,
+                "speed": 48,
+                "durability": 44,
+                "power": 63,
+                "combat": 88
+            },
+            {
+                "date": "2025-01-15T18:28:23.082090",
+                "intelligence": 62,
+                "strength": 86,
+                "speed": 68,
+                "durability": 82,
+                "power": 76,
+                "combat": 100
+            }
+        ],
+        "trend": "rising",
+        "rank": 4,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.082098",
+        "status": "inactive"
+    },
+    {
+        "id": 13,
+        "name": "Hero13",
+        "image": "https://example.com/hero13.jpg",
+        "intelligence": 83,
+        "strength": 60,
+        "speed": 76,
+        "durability": 66,
+        "power": 90,
+        "combat": 47,
+        "voteCount": 499,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082114",
+                "intelligence": 67,
+                "strength": 81,
+                "speed": 68,
+                "durability": 30,
+                "power": 52,
+                "combat": 87
+            },
+            {
+                "date": "2025-02-05T18:28:23.082120",
+                "intelligence": 61,
+                "strength": 54,
+                "speed": 79,
+                "durability": 36,
+                "power": 43,
+                "combat": 31
+            },
+            {
+                "date": "2025-01-29T18:28:23.082129",
+                "intelligence": 55,
+                "strength": 82,
+                "speed": 84,
+                "durability": 63,
+                "power": 64,
+                "combat": 50
+            },
+            {
+                "date": "2025-01-22T18:28:23.082138",
+                "intelligence": 51,
+                "strength": 40,
+                "speed": 93,
+                "durability": 52,
+                "power": 77,
+                "combat": 73
+            },
+            {
+                "date": "2025-01-15T18:28:23.082148",
+                "intelligence": 35,
+                "strength": 38,
+                "speed": 100,
+                "durability": 63,
+                "power": 57,
+                "combat": 68
+            }
+        ],
+        "trend": "falling",
+        "rank": 90,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.082161",
+        "status": "inactive"
+    },
+    {
+        "id": 14,
+        "name": "Hero14",
+        "image": "https://example.com/hero14.jpg",
+        "intelligence": 48,
+        "strength": 55,
+        "speed": 44,
+        "durability": 34,
+        "power": 30,
+        "combat": 57,
+        "voteCount": 10,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082177",
+                "intelligence": 96,
+                "strength": 62,
+                "speed": 36,
+                "durability": 31,
+                "power": 55,
+                "combat": 83
+            },
+            {
+                "date": "2025-02-05T18:28:23.082188",
+                "intelligence": 32,
+                "strength": 87,
+                "speed": 41,
+                "durability": 53,
+                "power": 68,
+                "combat": 81
+            },
+            {
+                "date": "2025-01-29T18:28:23.082198",
+                "intelligence": 91,
+                "strength": 46,
+                "speed": 98,
+                "durability": 46,
+                "power": 39,
+                "combat": 59
+            },
+            {
+                "date": "2025-01-22T18:28:23.082208",
+                "intelligence": 53,
+                "strength": 90,
+                "speed": 70,
+                "durability": 39,
+                "power": 36,
+                "combat": 87
+            },
+            {
+                "date": "2025-01-15T18:28:23.082217",
+                "intelligence": 75,
+                "strength": 60,
+                "speed": 38,
+                "durability": 79,
+                "power": 45,
+                "combat": 89
+            }
+        ],
+        "trend": "falling",
+        "rank": 48,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.082231",
+        "status": "active"
+    },
+    {
+        "id": 15,
+        "name": "Hero15",
+        "image": "https://example.com/hero15.jpg",
+        "intelligence": 62,
+        "strength": 75,
+        "speed": 56,
+        "durability": 40,
+        "power": 38,
+        "combat": 55,
+        "voteCount": 7,
+        "lastVotedAt": "2025-01-26T18:28:23.082243",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082261",
+                "intelligence": 78,
+                "strength": 31,
+                "speed": 97,
+                "durability": 37,
+                "power": 79,
+                "combat": 61
+            },
+            {
+                "date": "2025-02-05T18:28:23.082273",
+                "intelligence": 50,
+                "strength": 51,
+                "speed": 32,
+                "durability": 67,
+                "power": 34,
+                "combat": 87
+            },
+            {
+                "date": "2025-01-29T18:28:23.082284",
+                "intelligence": 59,
+                "strength": 56,
+                "speed": 31,
+                "durability": 50,
+                "power": 86,
+                "combat": 72
+            },
+            {
+                "date": "2025-01-22T18:28:23.082293",
+                "intelligence": 31,
+                "strength": 36,
+                "speed": 49,
+                "durability": 100,
+                "power": 100,
+                "combat": 44
+            }
+        ],
+        "trend": "falling",
+        "rank": 37,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.082302",
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "name": "Hero16",
+        "image": "https://example.com/hero16.jpg",
+        "intelligence": 95,
+        "strength": 54,
+        "speed": 67,
+        "durability": 53,
+        "power": 87,
+        "combat": 58,
+        "voteCount": 265,
+        "lastVotedAt": "2025-02-01T18:28:23.082311",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082316",
+                "intelligence": 93,
+                "strength": 56,
+                "speed": 72,
+                "durability": 32,
+                "power": 30,
+                "combat": 68
+            },
+            {
+                "date": "2025-02-05T18:28:23.082322",
+                "intelligence": 63,
+                "strength": 63,
+                "speed": 36,
+                "durability": 71,
+                "power": 46,
+                "combat": 52
+            },
+            {
+                "date": "2025-01-29T18:28:23.082332",
+                "intelligence": 69,
+                "strength": 71,
+                "speed": 96,
+                "durability": 61,
+                "power": 48,
+                "combat": 88
+            }
+        ],
+        "trend": "rising",
+        "rank": 20,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.082341",
+        "status": "inactive"
+    },
+    {
+        "id": 17,
+        "name": "Hero17",
+        "image": "https://example.com/hero17.jpg",
+        "intelligence": 72,
+        "strength": 57,
+        "speed": 65,
+        "durability": 68,
+        "power": 61,
+        "combat": 62,
+        "voteCount": 334,
+        "lastVotedAt": "2025-01-14T18:28:23.082349",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082355",
+                "intelligence": 38,
+                "strength": 80,
+                "speed": 61,
+                "durability": 73,
+                "power": 41,
+                "combat": 45
+            },
+            {
+                "date": "2025-02-05T18:28:23.082361",
+                "intelligence": 70,
+                "strength": 99,
+                "speed": 38,
+                "durability": 65,
+                "power": 100,
+                "combat": 75
+            }
+        ],
+        "trend": "rising",
+        "rank": 11,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082370",
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "name": "Hero18",
+        "image": "https://example.com/hero18.jpg",
+        "intelligence": 82,
+        "strength": 44,
+        "speed": 40,
+        "durability": 37,
+        "power": 39,
+        "combat": 63,
+        "voteCount": 6,
+        "lastVotedAt": "2025-01-24T18:28:23.082382",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082390",
+                "intelligence": 45,
+                "strength": 82,
+                "speed": 67,
+                "durability": 43,
+                "power": 56,
+                "combat": 100
+            },
+            {
+                "date": "2025-02-05T18:28:23.082400",
+                "intelligence": 62,
+                "strength": 88,
+                "speed": 84,
+                "durability": 63,
+                "power": 78,
+                "combat": 34
+            },
+            {
+                "date": "2025-01-29T18:28:23.082412",
+                "intelligence": 40,
+                "strength": 99,
+                "speed": 68,
+                "durability": 82,
+                "power": 81,
+                "combat": 32
+            }
+        ],
+        "trend": "rising",
+        "rank": 88,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082426",
+        "status": "inactive"
+    },
+    {
+        "id": 19,
+        "name": "Hero19",
+        "image": "https://example.com/hero19.jpg",
+        "intelligence": 32,
+        "strength": 32,
+        "speed": 56,
+        "durability": 38,
+        "power": 42,
+        "combat": 55,
+        "voteCount": 161,
+        "lastVotedAt": "2025-01-19T18:28:23.082437",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082444",
+                "intelligence": 79,
+                "strength": 77,
+                "speed": 94,
+                "durability": 77,
+                "power": 85,
+                "combat": 64
+            },
+            {
+                "date": "2025-02-05T18:28:23.082455",
+                "intelligence": 76,
+                "strength": 59,
+                "speed": 66,
+                "durability": 80,
+                "power": 94,
+                "combat": 72
+            },
+            {
+                "date": "2025-01-29T18:28:23.082466",
+                "intelligence": 32,
+                "strength": 91,
+                "speed": 51,
+                "durability": 83,
+                "power": 53,
+                "combat": 52
+            },
+            {
+                "date": "2025-01-22T18:28:23.082476",
+                "intelligence": 45,
+                "strength": 73,
+                "speed": 53,
+                "durability": 37,
+                "power": 98,
+                "combat": 31
+            },
+            {
+                "date": "2025-01-15T18:28:23.082486",
+                "intelligence": 46,
+                "strength": 67,
+                "speed": 38,
+                "durability": 56,
+                "power": 83,
+                "combat": 44
+            }
+        ],
+        "trend": "falling",
+        "rank": 88,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.082500",
+        "status": "inactive"
+    },
+    {
+        "id": 20,
+        "name": "Hero20",
+        "image": "https://example.com/hero20.jpg",
+        "intelligence": 50,
+        "strength": 33,
+        "speed": 34,
+        "durability": 63,
+        "power": 34,
+        "combat": 93,
+        "voteCount": 331,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082515",
+                "intelligence": 65,
+                "strength": 76,
+                "speed": 34,
+                "durability": 43,
+                "power": 52,
+                "combat": 66
+            }
+        ],
+        "trend": "rising",
+        "rank": 23,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.082530",
+        "status": "inactive"
+    },
+    {
+        "id": 21,
+        "name": "Hero21",
+        "image": "https://example.com/hero21.jpg",
+        "intelligence": 40,
+        "strength": 47,
+        "speed": 60,
+        "durability": 43,
+        "power": 45,
+        "combat": 59,
+        "voteCount": 244,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082545",
+                "intelligence": 43,
+                "strength": 100,
+                "speed": 70,
+                "durability": 31,
+                "power": 36,
+                "combat": 78
+            },
+            {
+                "date": "2025-02-05T18:28:23.082566",
+                "intelligence": 63,
+                "strength": 33,
+                "speed": 72,
+                "durability": 32,
+                "power": 45,
+                "combat": 49
+            },
+            {
+                "date": "2025-01-29T18:28:23.082579",
+                "intelligence": 43,
+                "strength": 84,
+                "speed": 63,
+                "durability": 65,
+                "power": 93,
+                "combat": 40
+            }
+        ],
+        "trend": "falling",
+        "rank": 64,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082594",
+        "status": "active"
+    },
+    {
+        "id": 22,
+        "name": "Hero22",
+        "image": "https://example.com/hero22.jpg",
+        "intelligence": 32,
+        "strength": 90,
+        "speed": 32,
+        "durability": 96,
+        "power": 41,
+        "combat": 31,
+        "voteCount": 28,
+        "lastVotedAt": "2025-01-24T18:28:23.082607",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082615",
+                "intelligence": 43,
+                "strength": 46,
+                "speed": 35,
+                "durability": 41,
+                "power": 78,
+                "combat": 62
+            },
+            {
+                "date": "2025-02-05T18:28:23.082627",
+                "intelligence": 33,
+                "strength": 95,
+                "speed": 41,
+                "durability": 98,
+                "power": 96,
+                "combat": 66
+            },
+            {
+                "date": "2025-01-29T18:28:23.082639",
+                "intelligence": 97,
+                "strength": 98,
+                "speed": 69,
+                "durability": 43,
+                "power": 61,
+                "combat": 65
+            },
+            {
+                "date": "2025-01-22T18:28:23.082666",
+                "intelligence": 40,
+                "strength": 79,
+                "speed": 74,
+                "durability": 49,
+                "power": 57,
+                "combat": 100
+            },
+            {
+                "date": "2025-01-15T18:28:23.082679",
+                "intelligence": 34,
+                "strength": 81,
+                "speed": 69,
+                "durability": 98,
+                "power": 86,
+                "combat": 79
+            }
+        ],
+        "trend": "falling",
+        "rank": 54,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.082693",
+        "status": "active"
+    },
+    {
+        "id": 23,
+        "name": "Hero23",
+        "image": "https://example.com/hero23.jpg",
+        "intelligence": 93,
+        "strength": 93,
+        "speed": 53,
+        "durability": 66,
+        "power": 91,
+        "combat": 39,
+        "voteCount": 451,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082706",
+                "intelligence": 43,
+                "strength": 60,
+                "speed": 51,
+                "durability": 90,
+                "power": 81,
+                "combat": 68
+            },
+            {
+                "date": "2025-02-05T18:28:23.082713",
+                "intelligence": 51,
+                "strength": 81,
+                "speed": 93,
+                "durability": 64,
+                "power": 46,
+                "combat": 100
+            },
+            {
+                "date": "2025-01-29T18:28:23.082719",
+                "intelligence": 45,
+                "strength": 89,
+                "speed": 98,
+                "durability": 72,
+                "power": 93,
+                "combat": 74
+            }
+        ],
+        "trend": "rising",
+        "rank": 73,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082728",
+        "status": "active"
+    },
+    {
+        "id": 24,
+        "name": "Hero24",
+        "image": "https://example.com/hero24.jpg",
+        "intelligence": 48,
+        "strength": 64,
+        "speed": 75,
+        "durability": 71,
+        "power": 41,
+        "combat": 49,
+        "voteCount": 91,
+        "lastVotedAt": "2025-01-28T18:28:23.082735",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082740",
+                "intelligence": 73,
+                "strength": 30,
+                "speed": 34,
+                "durability": 66,
+                "power": 68,
+                "combat": 49
+            }
+        ],
+        "trend": "falling",
+        "rank": 92,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.082747",
+        "status": "inactive"
+    },
+    {
+        "id": 25,
+        "name": "Hero25",
+        "image": "https://example.com/hero25.jpg",
+        "intelligence": 53,
+        "strength": 57,
+        "speed": 34,
+        "durability": 90,
+        "power": 50,
+        "combat": 35,
+        "voteCount": 378,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082759",
+                "intelligence": 65,
+                "strength": 78,
+                "speed": 46,
+                "durability": 32,
+                "power": 77,
+                "combat": 38
+            }
+        ],
+        "trend": "rising",
+        "rank": 48,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.082768",
+        "status": "inactive"
+    },
+    {
+        "id": 26,
+        "name": "Hero26",
+        "image": "https://example.com/hero26.jpg",
+        "intelligence": 89,
+        "strength": 75,
+        "speed": 60,
+        "durability": 99,
+        "power": 82,
+        "combat": 35,
+        "voteCount": 168,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082776",
+                "intelligence": 78,
+                "strength": 58,
+                "speed": 76,
+                "durability": 88,
+                "power": 44,
+                "combat": 71
+            },
+            {
+                "date": "2025-02-05T18:28:23.082782",
+                "intelligence": 55,
+                "strength": 31,
+                "speed": 62,
+                "durability": 37,
+                "power": 55,
+                "combat": 65
+            },
+            {
+                "date": "2025-01-29T18:28:23.082788",
+                "intelligence": 68,
+                "strength": 77,
+                "speed": 84,
+                "durability": 51,
+                "power": 85,
+                "combat": 65
+            }
+        ],
+        "trend": "steady",
+        "rank": 39,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.082796",
+        "status": "active"
+    },
+    {
+        "id": 27,
+        "name": "Hero27",
+        "image": "https://example.com/hero27.jpg",
+        "intelligence": 73,
+        "strength": 69,
+        "speed": 49,
+        "durability": 57,
+        "power": 84,
+        "combat": 50,
+        "voteCount": 365,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082806",
+                "intelligence": 98,
+                "strength": 53,
+                "speed": 96,
+                "durability": 78,
+                "power": 46,
+                "combat": 43
+            },
+            {
+                "date": "2025-02-05T18:28:23.082812",
+                "intelligence": 96,
+                "strength": 74,
+                "speed": 50,
+                "durability": 92,
+                "power": 62,
+                "combat": 89
+            }
+        ],
+        "trend": "falling",
+        "rank": 74,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.082820",
+        "status": "active"
+    },
+    {
+        "id": 28,
+        "name": "Hero28",
+        "image": "https://example.com/hero28.jpg",
+        "intelligence": 58,
+        "strength": 49,
+        "speed": 99,
+        "durability": 71,
+        "power": 70,
+        "combat": 87,
+        "voteCount": 333,
+        "lastVotedAt": "2025-01-21T18:28:23.082827",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082832",
+                "intelligence": 77,
+                "strength": 48,
+                "speed": 38,
+                "durability": 97,
+                "power": 43,
+                "combat": 56
+            },
+            {
+                "date": "2025-02-05T18:28:23.082838",
+                "intelligence": 54,
+                "strength": 99,
+                "speed": 35,
+                "durability": 90,
+                "power": 37,
+                "combat": 59
+            },
+            {
+                "date": "2025-01-29T18:28:23.082845",
+                "intelligence": 39,
+                "strength": 94,
+                "speed": 52,
+                "durability": 85,
+                "power": 52,
+                "combat": 34
+            },
+            {
+                "date": "2025-01-22T18:28:23.082851",
+                "intelligence": 72,
+                "strength": 31,
+                "speed": 74,
+                "durability": 52,
+                "power": 56,
+                "combat": 62
+            }
+        ],
+        "trend": "rising",
+        "rank": 4,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.082859",
+        "status": "active"
+    },
+    {
+        "id": 29,
+        "name": "Hero29",
+        "image": "https://example.com/hero29.jpg",
+        "intelligence": 57,
+        "strength": 56,
+        "speed": 90,
+        "durability": 31,
+        "power": 74,
+        "combat": 65,
+        "voteCount": 423,
+        "lastVotedAt": "2025-01-28T18:28:23.082867",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082872",
+                "intelligence": 50,
+                "strength": 45,
+                "speed": 51,
+                "durability": 85,
+                "power": 83,
+                "combat": 73
+            },
+            {
+                "date": "2025-02-05T18:28:23.082878",
+                "intelligence": 43,
+                "strength": 77,
+                "speed": 60,
+                "durability": 80,
+                "power": 56,
+                "combat": 94
+            }
+        ],
+        "trend": "falling",
+        "rank": 90,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.082896",
+        "status": "inactive"
+    },
+    {
+        "id": 30,
+        "name": "Hero30",
+        "image": "https://example.com/hero30.jpg",
+        "intelligence": 70,
+        "strength": 83,
+        "speed": 95,
+        "durability": 49,
+        "power": 92,
+        "combat": 57,
+        "voteCount": 215,
+        "lastVotedAt": "2025-01-20T18:28:23.082909",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082917",
+                "intelligence": 95,
+                "strength": 58,
+                "speed": 97,
+                "durability": 87,
+                "power": 88,
+                "combat": 74
+            }
+        ],
+        "trend": "falling",
+        "rank": 74,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082933",
+        "status": "active"
+    },
+    {
+        "id": 31,
+        "name": "Hero31",
+        "image": "https://example.com/hero31.jpg",
+        "intelligence": 33,
+        "strength": 53,
+        "speed": 67,
+        "durability": 37,
+        "power": 95,
+        "combat": 86,
+        "voteCount": 470,
+        "lastVotedAt": "2025-01-13T18:28:23.082945",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082952",
+                "intelligence": 98,
+                "strength": 54,
+                "speed": 79,
+                "durability": 80,
+                "power": 41,
+                "combat": 73
+            },
+            {
+                "date": "2025-02-05T18:28:23.082969",
+                "intelligence": 30,
+                "strength": 73,
+                "speed": 66,
+                "durability": 32,
+                "power": 96,
+                "combat": 37
+            }
+        ],
+        "trend": "falling",
+        "rank": 50,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.082983",
+        "status": "inactive"
+    },
+    {
+        "id": 32,
+        "name": "Hero32",
+        "image": "https://example.com/hero32.jpg",
+        "intelligence": 49,
+        "strength": 55,
+        "speed": 71,
+        "durability": 69,
+        "power": 93,
+        "combat": 85,
+        "voteCount": 10,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.082997",
+                "intelligence": 77,
+                "strength": 42,
+                "speed": 80,
+                "durability": 38,
+                "power": 77,
+                "combat": 60
+            },
+            {
+                "date": "2025-02-05T18:28:23.083008",
+                "intelligence": 65,
+                "strength": 32,
+                "speed": 31,
+                "durability": 30,
+                "power": 93,
+                "combat": 77
+            },
+            {
+                "date": "2025-01-29T18:28:23.083020",
+                "intelligence": 81,
+                "strength": 99,
+                "speed": 38,
+                "durability": 39,
+                "power": 81,
+                "combat": 37
+            },
+            {
+                "date": "2025-01-22T18:28:23.083032",
+                "intelligence": 43,
+                "strength": 78,
+                "speed": 48,
+                "durability": 86,
+                "power": 34,
+                "combat": 89
+            }
+        ],
+        "trend": "rising",
+        "rank": 54,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083046",
+        "status": "active"
+    },
+    {
+        "id": 33,
+        "name": "Hero33",
+        "image": "https://example.com/hero33.jpg",
+        "intelligence": 71,
+        "strength": 39,
+        "speed": 59,
+        "durability": 91,
+        "power": 47,
+        "combat": 72,
+        "voteCount": 406,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083059",
+                "intelligence": 60,
+                "strength": 45,
+                "speed": 70,
+                "durability": 66,
+                "power": 72,
+                "combat": 66
+            },
+            {
+                "date": "2025-02-05T18:28:23.083069",
+                "intelligence": 65,
+                "strength": 74,
+                "speed": 92,
+                "durability": 97,
+                "power": 46,
+                "combat": 94
+            },
+            {
+                "date": "2025-01-29T18:28:23.083079",
+                "intelligence": 60,
+                "strength": 44,
+                "speed": 69,
+                "durability": 99,
+                "power": 30,
+                "combat": 61
+            },
+            {
+                "date": "2025-01-22T18:28:23.083089",
+                "intelligence": 56,
+                "strength": 65,
+                "speed": 94,
+                "durability": 34,
+                "power": 84,
+                "combat": 93
+            }
+        ],
+        "trend": "steady",
+        "rank": 61,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.083101",
+        "status": "inactive"
+    },
+    {
+        "id": 34,
+        "name": "Hero34",
+        "image": "https://example.com/hero34.jpg",
+        "intelligence": 72,
+        "strength": 46,
+        "speed": 82,
+        "durability": 55,
+        "power": 40,
+        "combat": 77,
+        "voteCount": 212,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083254",
+                "intelligence": 79,
+                "strength": 81,
+                "speed": 77,
+                "durability": 94,
+                "power": 87,
+                "combat": 80
+            },
+            {
+                "date": "2025-02-05T18:28:23.083263",
+                "intelligence": 47,
+                "strength": 100,
+                "speed": 89,
+                "durability": 86,
+                "power": 36,
+                "combat": 73
+            },
+            {
+                "date": "2025-01-29T18:28:23.083270",
+                "intelligence": 74,
+                "strength": 86,
+                "speed": 57,
+                "durability": 31,
+                "power": 68,
+                "combat": 55
+            }
+        ],
+        "trend": "rising",
+        "rank": 84,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.083279",
+        "status": "inactive"
+    },
+    {
+        "id": 35,
+        "name": "Hero35",
+        "image": "https://example.com/hero35.jpg",
+        "intelligence": 50,
+        "strength": 55,
+        "speed": 96,
+        "durability": 96,
+        "power": 81,
+        "combat": 90,
+        "voteCount": 244,
+        "lastVotedAt": "2025-01-13T18:28:23.083287",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083292",
+                "intelligence": 79,
+                "strength": 91,
+                "speed": 60,
+                "durability": 51,
+                "power": 85,
+                "combat": 57
+            },
+            {
+                "date": "2025-02-05T18:28:23.083298",
+                "intelligence": 38,
+                "strength": 88,
+                "speed": 52,
+                "durability": 100,
+                "power": 77,
+                "combat": 34
+            },
+            {
+                "date": "2025-01-29T18:28:23.083304",
+                "intelligence": 62,
+                "strength": 62,
+                "speed": 52,
+                "durability": 98,
+                "power": 34,
+                "combat": 59
+            }
+        ],
+        "trend": "falling",
+        "rank": 57,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.083315",
+        "status": "active"
+    },
+    {
+        "id": 36,
+        "name": "Hero36",
+        "image": "https://example.com/hero36.jpg",
+        "intelligence": 96,
+        "strength": 75,
+        "speed": 92,
+        "durability": 88,
+        "power": 34,
+        "combat": 60,
+        "voteCount": 103,
+        "lastVotedAt": "2025-02-05T18:28:23.083324",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083329",
+                "intelligence": 72,
+                "strength": 51,
+                "speed": 57,
+                "durability": 89,
+                "power": 73,
+                "combat": 83
+            },
+            {
+                "date": "2025-02-05T18:28:23.083335",
+                "intelligence": 41,
+                "strength": 49,
+                "speed": 78,
+                "durability": 45,
+                "power": 66,
+                "combat": 44
+            },
+            {
+                "date": "2025-01-29T18:28:23.083341",
+                "intelligence": 94,
+                "strength": 76,
+                "speed": 58,
+                "durability": 73,
+                "power": 79,
+                "combat": 64
+            }
+        ],
+        "trend": "steady",
+        "rank": 71,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.083353",
+        "status": "inactive"
+    },
+    {
+        "id": 37,
+        "name": "Hero37",
+        "image": "https://example.com/hero37.jpg",
+        "intelligence": 50,
+        "strength": 46,
+        "speed": 64,
+        "durability": 42,
+        "power": 99,
+        "combat": 74,
+        "voteCount": 486,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083361",
+                "intelligence": 35,
+                "strength": 45,
+                "speed": 57,
+                "durability": 95,
+                "power": 84,
+                "combat": 44
+            },
+            {
+                "date": "2025-02-05T18:28:23.083368",
+                "intelligence": 81,
+                "strength": 44,
+                "speed": 89,
+                "durability": 54,
+                "power": 38,
+                "combat": 80
+            }
+        ],
+        "trend": "rising",
+        "rank": 65,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.083376",
+        "status": "inactive"
+    },
+    {
+        "id": 38,
+        "name": "Hero38",
+        "image": "https://example.com/hero38.jpg",
+        "intelligence": 72,
+        "strength": 67,
+        "speed": 94,
+        "durability": 30,
+        "power": 51,
+        "combat": 40,
+        "voteCount": 120,
+        "lastVotedAt": "2025-01-15T18:28:23.083383",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083387",
+                "intelligence": 43,
+                "strength": 78,
+                "speed": 79,
+                "durability": 48,
+                "power": 76,
+                "combat": 98
+            }
+        ],
+        "trend": "steady",
+        "rank": 55,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.083395",
+        "status": "inactive"
+    },
+    {
+        "id": 39,
+        "name": "Hero39",
+        "image": "https://example.com/hero39.jpg",
+        "intelligence": 67,
+        "strength": 98,
+        "speed": 92,
+        "durability": 66,
+        "power": 37,
+        "combat": 58,
+        "voteCount": 0,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083404",
+                "intelligence": 42,
+                "strength": 37,
+                "speed": 95,
+                "durability": 93,
+                "power": 77,
+                "combat": 97
+            },
+            {
+                "date": "2025-02-05T18:28:23.083410",
+                "intelligence": 52,
+                "strength": 83,
+                "speed": 100,
+                "durability": 75,
+                "power": 41,
+                "combat": 93
+            },
+            {
+                "date": "2025-01-29T18:28:23.083416",
+                "intelligence": 66,
+                "strength": 90,
+                "speed": 98,
+                "durability": 66,
+                "power": 50,
+                "combat": 45
+            }
+        ],
+        "trend": "rising",
+        "rank": 20,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.083424",
+        "status": "inactive"
+    },
+    {
+        "id": 40,
+        "name": "Hero40",
+        "image": "https://example.com/hero40.jpg",
+        "intelligence": 59,
+        "strength": 82,
+        "speed": 77,
+        "durability": 50,
+        "power": 60,
+        "combat": 87,
+        "voteCount": 27,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083433",
+                "intelligence": 82,
+                "strength": 78,
+                "speed": 38,
+                "durability": 79,
+                "power": 48,
+                "combat": 67
+            },
+            {
+                "date": "2025-02-05T18:28:23.083439",
+                "intelligence": 44,
+                "strength": 45,
+                "speed": 43,
+                "durability": 87,
+                "power": 86,
+                "combat": 57
+            }
+        ],
+        "trend": "rising",
+        "rank": 22,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.083447",
+        "status": "active"
+    },
+    {
+        "id": 41,
+        "name": "Hero41",
+        "image": "https://example.com/hero41.jpg",
+        "intelligence": 75,
+        "strength": 87,
+        "speed": 33,
+        "durability": 51,
+        "power": 32,
+        "combat": 75,
+        "voteCount": 73,
+        "lastVotedAt": "2025-01-14T18:28:23.083454",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083459",
+                "intelligence": 55,
+                "strength": 49,
+                "speed": 73,
+                "durability": 89,
+                "power": 46,
+                "combat": 96
+            },
+            {
+                "date": "2025-02-05T18:28:23.083465",
+                "intelligence": 39,
+                "strength": 93,
+                "speed": 71,
+                "durability": 41,
+                "power": 74,
+                "combat": 59
+            }
+        ],
+        "trend": "steady",
+        "rank": 16,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.083473",
+        "status": "active"
+    },
+    {
+        "id": 42,
+        "name": "Hero42",
+        "image": "https://example.com/hero42.jpg",
+        "intelligence": 40,
+        "strength": 81,
+        "speed": 37,
+        "durability": 99,
+        "power": 55,
+        "combat": 34,
+        "voteCount": 253,
+        "lastVotedAt": "2025-02-11T18:28:23.083482",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083487",
+                "intelligence": 34,
+                "strength": 30,
+                "speed": 98,
+                "durability": 31,
+                "power": 69,
+                "combat": 30
+            }
+        ],
+        "trend": "falling",
+        "rank": 83,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.083494",
+        "status": "active"
+    },
+    {
+        "id": 43,
+        "name": "Hero43",
+        "image": "https://example.com/hero43.jpg",
+        "intelligence": 73,
+        "strength": 60,
+        "speed": 100,
+        "durability": 65,
+        "power": 32,
+        "combat": 67,
+        "voteCount": 124,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083503",
+                "intelligence": 75,
+                "strength": 75,
+                "speed": 76,
+                "durability": 60,
+                "power": 68,
+                "combat": 68
+            },
+            {
+                "date": "2025-02-05T18:28:23.083509",
+                "intelligence": 87,
+                "strength": 97,
+                "speed": 92,
+                "durability": 76,
+                "power": 66,
+                "combat": 45
+            },
+            {
+                "date": "2025-01-29T18:28:23.083515",
+                "intelligence": 90,
+                "strength": 62,
+                "speed": 99,
+                "durability": 36,
+                "power": 50,
+                "combat": 79
+            }
+        ],
+        "trend": "falling",
+        "rank": 6,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.083523",
+        "status": "inactive"
+    },
+    {
+        "id": 44,
+        "name": "Hero44",
+        "image": "https://example.com/hero44.jpg",
+        "intelligence": 40,
+        "strength": 42,
+        "speed": 100,
+        "durability": 93,
+        "power": 94,
+        "combat": 47,
+        "voteCount": 146,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083531",
+                "intelligence": 57,
+                "strength": 33,
+                "speed": 88,
+                "durability": 51,
+                "power": 45,
+                "combat": 35
+            },
+            {
+                "date": "2025-02-05T18:28:23.083539",
+                "intelligence": 100,
+                "strength": 46,
+                "speed": 30,
+                "durability": 35,
+                "power": 68,
+                "combat": 44
+            }
+        ],
+        "trend": "falling",
+        "rank": 53,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.083553",
+        "status": "inactive"
+    },
+    {
+        "id": 45,
+        "name": "Hero45",
+        "image": "https://example.com/hero45.jpg",
+        "intelligence": 42,
+        "strength": 65,
+        "speed": 73,
+        "durability": 95,
+        "power": 48,
+        "combat": 42,
+        "voteCount": 184,
+        "lastVotedAt": "2025-02-04T18:28:23.083564",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083571",
+                "intelligence": 71,
+                "strength": 30,
+                "speed": 32,
+                "durability": 68,
+                "power": 57,
+                "combat": 53
+            }
+        ],
+        "trend": "steady",
+        "rank": 53,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.083579",
+        "status": "inactive"
+    },
+    {
+        "id": 46,
+        "name": "Hero46",
+        "image": "https://example.com/hero46.jpg",
+        "intelligence": 71,
+        "strength": 63,
+        "speed": 90,
+        "durability": 82,
+        "power": 42,
+        "combat": 58,
+        "voteCount": 18,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083588",
+                "intelligence": 75,
+                "strength": 100,
+                "speed": 81,
+                "durability": 95,
+                "power": 38,
+                "combat": 89
+            },
+            {
+                "date": "2025-02-05T18:28:23.083594",
+                "intelligence": 50,
+                "strength": 97,
+                "speed": 65,
+                "durability": 45,
+                "power": 81,
+                "combat": 57
+            }
+        ],
+        "trend": "falling",
+        "rank": 62,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.083602",
+        "status": "inactive"
+    },
+    {
+        "id": 47,
+        "name": "Hero47",
+        "image": "https://example.com/hero47.jpg",
+        "intelligence": 52,
+        "strength": 84,
+        "speed": 65,
+        "durability": 93,
+        "power": 82,
+        "combat": 51,
+        "voteCount": 431,
+        "lastVotedAt": "2025-01-27T18:28:23.083609",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083614",
+                "intelligence": 57,
+                "strength": 94,
+                "speed": 41,
+                "durability": 57,
+                "power": 42,
+                "combat": 88
+            },
+            {
+                "date": "2025-02-05T18:28:23.083620",
+                "intelligence": 74,
+                "strength": 78,
+                "speed": 68,
+                "durability": 47,
+                "power": 61,
+                "combat": 66
+            },
+            {
+                "date": "2025-01-29T18:28:23.083626",
+                "intelligence": 79,
+                "strength": 49,
+                "speed": 74,
+                "durability": 42,
+                "power": 87,
+                "combat": 98
+            },
+            {
+                "date": "2025-01-22T18:28:23.083632",
+                "intelligence": 50,
+                "strength": 33,
+                "speed": 69,
+                "durability": 46,
+                "power": 72,
+                "combat": 79
+            }
+        ],
+        "trend": "rising",
+        "rank": 13,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083640",
+        "status": "inactive"
+    },
+    {
+        "id": 48,
+        "name": "Hero48",
+        "image": "https://example.com/hero48.jpg",
+        "intelligence": 61,
+        "strength": 43,
+        "speed": 45,
+        "durability": 57,
+        "power": 95,
+        "combat": 62,
+        "voteCount": 471,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083649",
+                "intelligence": 66,
+                "strength": 100,
+                "speed": 46,
+                "durability": 43,
+                "power": 45,
+                "combat": 59
+            }
+        ],
+        "trend": "falling",
+        "rank": 36,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083656",
+        "status": "active"
+    },
+    {
+        "id": 49,
+        "name": "Hero49",
+        "image": "https://example.com/hero49.jpg",
+        "intelligence": 43,
+        "strength": 36,
+        "speed": 56,
+        "durability": 37,
+        "power": 78,
+        "combat": 98,
+        "voteCount": 48,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083665",
+                "intelligence": 72,
+                "strength": 65,
+                "speed": 90,
+                "durability": 77,
+                "power": 37,
+                "combat": 69
+            },
+            {
+                "date": "2025-02-05T18:28:23.083671",
+                "intelligence": 58,
+                "strength": 47,
+                "speed": 68,
+                "durability": 84,
+                "power": 41,
+                "combat": 99
+            },
+            {
+                "date": "2025-01-29T18:28:23.083677",
+                "intelligence": 49,
+                "strength": 42,
+                "speed": 79,
+                "durability": 35,
+                "power": 73,
+                "combat": 97
+            }
+        ],
+        "trend": "rising",
+        "rank": 73,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083685",
+        "status": "active"
+    },
+    {
+        "id": 50,
+        "name": "Hero50",
+        "image": "https://example.com/hero50.jpg",
+        "intelligence": 47,
+        "strength": 37,
+        "speed": 40,
+        "durability": 64,
+        "power": 38,
+        "combat": 56,
+        "voteCount": 375,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083694",
+                "intelligence": 48,
+                "strength": 78,
+                "speed": 45,
+                "durability": 52,
+                "power": 87,
+                "combat": 58
+            },
+            {
+                "date": "2025-02-05T18:28:23.083700",
+                "intelligence": 44,
+                "strength": 53,
+                "speed": 42,
+                "durability": 72,
+                "power": 73,
+                "combat": 40
+            }
+        ],
+        "trend": "falling",
+        "rank": 70,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.083708",
+        "status": "active"
+    },
+    {
+        "id": 51,
+        "name": "Hero51",
+        "image": "https://example.com/hero51.jpg",
+        "intelligence": 74,
+        "strength": 95,
+        "speed": 36,
+        "durability": 85,
+        "power": 57,
+        "combat": 82,
+        "voteCount": 4,
+        "lastVotedAt": "2025-01-15T18:28:23.083714",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083719",
+                "intelligence": 93,
+                "strength": 86,
+                "speed": 99,
+                "durability": 42,
+                "power": 84,
+                "combat": 55
+            },
+            {
+                "date": "2025-02-05T18:28:23.083726",
+                "intelligence": 60,
+                "strength": 93,
+                "speed": 65,
+                "durability": 94,
+                "power": 82,
+                "combat": 35
+            },
+            {
+                "date": "2025-01-29T18:28:23.083732",
+                "intelligence": 87,
+                "strength": 95,
+                "speed": 45,
+                "durability": 41,
+                "power": 83,
+                "combat": 63
+            },
+            {
+                "date": "2025-01-22T18:28:23.083738",
+                "intelligence": 44,
+                "strength": 94,
+                "speed": 36,
+                "durability": 45,
+                "power": 74,
+                "combat": 54
+            },
+            {
+                "date": "2025-01-15T18:28:23.083744",
+                "intelligence": 81,
+                "strength": 49,
+                "speed": 40,
+                "durability": 39,
+                "power": 37,
+                "combat": 30
+            }
+        ],
+        "trend": "falling",
+        "rank": 82,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.083752",
+        "status": "inactive"
+    },
+    {
+        "id": 52,
+        "name": "Hero52",
+        "image": "https://example.com/hero52.jpg",
+        "intelligence": 72,
+        "strength": 34,
+        "speed": 79,
+        "durability": 70,
+        "power": 99,
+        "combat": 96,
+        "voteCount": 13,
+        "lastVotedAt": "2025-02-01T18:28:23.083759",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083764",
+                "intelligence": 46,
+                "strength": 46,
+                "speed": 60,
+                "durability": 84,
+                "power": 88,
+                "combat": 61
+            },
+            {
+                "date": "2025-02-05T18:28:23.083770",
+                "intelligence": 37,
+                "strength": 71,
+                "speed": 84,
+                "durability": 59,
+                "power": 84,
+                "combat": 80
+            },
+            {
+                "date": "2025-01-29T18:28:23.083776",
+                "intelligence": 99,
+                "strength": 97,
+                "speed": 60,
+                "durability": 70,
+                "power": 53,
+                "combat": 88
+            },
+            {
+                "date": "2025-01-22T18:28:23.083782",
+                "intelligence": 49,
+                "strength": 48,
+                "speed": 67,
+                "durability": 76,
+                "power": 81,
+                "combat": 45
+            }
+        ],
+        "trend": "steady",
+        "rank": 34,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.083790",
+        "status": "active"
+    },
+    {
+        "id": 53,
+        "name": "Hero53",
+        "image": "https://example.com/hero53.jpg",
+        "intelligence": 64,
+        "strength": 79,
+        "speed": 40,
+        "durability": 51,
+        "power": 64,
+        "combat": 84,
+        "voteCount": 221,
+        "lastVotedAt": "2025-02-07T18:28:23.083797",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083801",
+                "intelligence": 41,
+                "strength": 63,
+                "speed": 86,
+                "durability": 82,
+                "power": 36,
+                "combat": 36
+            }
+        ],
+        "trend": "steady",
+        "rank": 98,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083809",
+        "status": "inactive"
+    },
+    {
+        "id": 54,
+        "name": "Hero54",
+        "image": "https://example.com/hero54.jpg",
+        "intelligence": 80,
+        "strength": 53,
+        "speed": 44,
+        "durability": 31,
+        "power": 72,
+        "combat": 50,
+        "voteCount": 420,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083818",
+                "intelligence": 100,
+                "strength": 75,
+                "speed": 72,
+                "durability": 54,
+                "power": 73,
+                "combat": 53
+            },
+            {
+                "date": "2025-02-05T18:28:23.083824",
+                "intelligence": 89,
+                "strength": 48,
+                "speed": 54,
+                "durability": 76,
+                "power": 57,
+                "combat": 45
+            },
+            {
+                "date": "2025-01-29T18:28:23.083830",
+                "intelligence": 39,
+                "strength": 93,
+                "speed": 52,
+                "durability": 59,
+                "power": 93,
+                "combat": 71
+            }
+        ],
+        "trend": "steady",
+        "rank": 100,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.083838",
+        "status": "inactive"
+    },
+    {
+        "id": 55,
+        "name": "Hero55",
+        "image": "https://example.com/hero55.jpg",
+        "intelligence": 65,
+        "strength": 65,
+        "speed": 63,
+        "durability": 81,
+        "power": 42,
+        "combat": 38,
+        "voteCount": 118,
+        "lastVotedAt": "2025-02-08T18:28:23.083845",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083849",
+                "intelligence": 63,
+                "strength": 67,
+                "speed": 93,
+                "durability": 96,
+                "power": 51,
+                "combat": 47
+            },
+            {
+                "date": "2025-02-05T18:28:23.083856",
+                "intelligence": 68,
+                "strength": 38,
+                "speed": 77,
+                "durability": 76,
+                "power": 33,
+                "combat": 40
+            },
+            {
+                "date": "2025-01-29T18:28:23.083862",
+                "intelligence": 79,
+                "strength": 96,
+                "speed": 41,
+                "durability": 32,
+                "power": 64,
+                "combat": 95
+            },
+            {
+                "date": "2025-01-22T18:28:23.083868",
+                "intelligence": 32,
+                "strength": 89,
+                "speed": 57,
+                "durability": 36,
+                "power": 60,
+                "combat": 55
+            }
+        ],
+        "trend": "steady",
+        "rank": 29,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.083877",
+        "status": "active"
+    },
+    {
+        "id": 56,
+        "name": "Hero56",
+        "image": "https://example.com/hero56.jpg",
+        "intelligence": 59,
+        "strength": 94,
+        "speed": 70,
+        "durability": 93,
+        "power": 42,
+        "combat": 77,
+        "voteCount": 143,
+        "lastVotedAt": "2025-01-15T18:28:23.083884",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083888",
+                "intelligence": 94,
+                "strength": 96,
+                "speed": 52,
+                "durability": 32,
+                "power": 59,
+                "combat": 77
+            },
+            {
+                "date": "2025-02-05T18:28:23.083894",
+                "intelligence": 57,
+                "strength": 75,
+                "speed": 86,
+                "durability": 40,
+                "power": 63,
+                "combat": 31
+            },
+            {
+                "date": "2025-01-29T18:28:23.083901",
+                "intelligence": 47,
+                "strength": 44,
+                "speed": 57,
+                "durability": 53,
+                "power": 70,
+                "combat": 54
+            }
+        ],
+        "trend": "rising",
+        "rank": 49,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.083909",
+        "status": "inactive"
+    },
+    {
+        "id": 57,
+        "name": "Hero57",
+        "image": "https://example.com/hero57.jpg",
+        "intelligence": 41,
+        "strength": 78,
+        "speed": 31,
+        "durability": 42,
+        "power": 81,
+        "combat": 68,
+        "voteCount": 458,
+        "lastVotedAt": "2025-01-17T18:28:23.083917",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083921",
+                "intelligence": 74,
+                "strength": 92,
+                "speed": 31,
+                "durability": 62,
+                "power": 71,
+                "combat": 57
+            }
+        ],
+        "trend": "falling",
+        "rank": 93,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.083929",
+        "status": "active"
+    },
+    {
+        "id": 58,
+        "name": "Hero58",
+        "image": "https://example.com/hero58.jpg",
+        "intelligence": 63,
+        "strength": 92,
+        "speed": 44,
+        "durability": 43,
+        "power": 32,
+        "combat": 98,
+        "voteCount": 427,
+        "lastVotedAt": "2025-02-06T18:28:23.083937",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083941",
+                "intelligence": 66,
+                "strength": 38,
+                "speed": 38,
+                "durability": 87,
+                "power": 78,
+                "combat": 79
+            },
+            {
+                "date": "2025-02-05T18:28:23.083947",
+                "intelligence": 72,
+                "strength": 83,
+                "speed": 61,
+                "durability": 58,
+                "power": 86,
+                "combat": 95
+            },
+            {
+                "date": "2025-01-29T18:28:23.083953",
+                "intelligence": 66,
+                "strength": 32,
+                "speed": 95,
+                "durability": 81,
+                "power": 54,
+                "combat": 68
+            },
+            {
+                "date": "2025-01-22T18:28:23.083959",
+                "intelligence": 71,
+                "strength": 42,
+                "speed": 80,
+                "durability": 93,
+                "power": 54,
+                "combat": 30
+            }
+        ],
+        "trend": "steady",
+        "rank": 86,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.083967",
+        "status": "active"
+    },
+    {
+        "id": 59,
+        "name": "Hero59",
+        "image": "https://example.com/hero59.jpg",
+        "intelligence": 34,
+        "strength": 59,
+        "speed": 37,
+        "durability": 52,
+        "power": 69,
+        "combat": 57,
+        "voteCount": 11,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.083975",
+                "intelligence": 86,
+                "strength": 97,
+                "speed": 96,
+                "durability": 72,
+                "power": 60,
+                "combat": 87
+            },
+            {
+                "date": "2025-02-05T18:28:23.083981",
+                "intelligence": 43,
+                "strength": 59,
+                "speed": 74,
+                "durability": 53,
+                "power": 60,
+                "combat": 42
+            },
+            {
+                "date": "2025-01-29T18:28:23.083987",
+                "intelligence": 33,
+                "strength": 54,
+                "speed": 41,
+                "durability": 52,
+                "power": 43,
+                "combat": 68
+            },
+            {
+                "date": "2025-01-22T18:28:23.083994",
+                "intelligence": 84,
+                "strength": 76,
+                "speed": 94,
+                "durability": 76,
+                "power": 78,
+                "combat": 47
+            }
+        ],
+        "trend": "rising",
+        "rank": 56,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.084002",
+        "status": "active"
+    },
+    {
+        "id": 60,
+        "name": "Hero60",
+        "image": "https://example.com/hero60.jpg",
+        "intelligence": 74,
+        "strength": 75,
+        "speed": 89,
+        "durability": 89,
+        "power": 94,
+        "combat": 50,
+        "voteCount": 64,
+        "lastVotedAt": "2025-01-30T18:28:23.084009",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084013",
+                "intelligence": 30,
+                "strength": 99,
+                "speed": 97,
+                "durability": 40,
+                "power": 98,
+                "combat": 83
+            },
+            {
+                "date": "2025-02-05T18:28:23.084019",
+                "intelligence": 45,
+                "strength": 61,
+                "speed": 47,
+                "durability": 59,
+                "power": 54,
+                "combat": 38
+            }
+        ],
+        "trend": "steady",
+        "rank": 84,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.084027",
+        "status": "active"
+    },
+    {
+        "id": 61,
+        "name": "Hero61",
+        "image": "https://example.com/hero61.jpg",
+        "intelligence": 37,
+        "strength": 64,
+        "speed": 87,
+        "durability": 89,
+        "power": 99,
+        "combat": 74,
+        "voteCount": 46,
+        "lastVotedAt": "2025-02-02T18:28:23.084035",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084040",
+                "intelligence": 94,
+                "strength": 36,
+                "speed": 87,
+                "durability": 44,
+                "power": 56,
+                "combat": 79
+            }
+        ],
+        "trend": "rising",
+        "rank": 90,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.084048",
+        "status": "active"
+    },
+    {
+        "id": 62,
+        "name": "Hero62",
+        "image": "https://example.com/hero62.jpg",
+        "intelligence": 31,
+        "strength": 97,
+        "speed": 44,
+        "durability": 79,
+        "power": 76,
+        "combat": 47,
+        "voteCount": 47,
+        "lastVotedAt": "2025-01-22T18:28:23.084055",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084060",
+                "intelligence": 90,
+                "strength": 38,
+                "speed": 88,
+                "durability": 60,
+                "power": 50,
+                "combat": 99
+            },
+            {
+                "date": "2025-02-05T18:28:23.084066",
+                "intelligence": 54,
+                "strength": 63,
+                "speed": 48,
+                "durability": 87,
+                "power": 40,
+                "combat": 80
+            },
+            {
+                "date": "2025-01-29T18:28:23.084072",
+                "intelligence": 55,
+                "strength": 31,
+                "speed": 44,
+                "durability": 36,
+                "power": 87,
+                "combat": 44
+            },
+            {
+                "date": "2025-01-22T18:28:23.084078",
+                "intelligence": 43,
+                "strength": 93,
+                "speed": 41,
+                "durability": 52,
+                "power": 38,
+                "combat": 79
+            }
+        ],
+        "trend": "rising",
+        "rank": 98,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.084086",
+        "status": "inactive"
+    },
+    {
+        "id": 63,
+        "name": "Hero63",
+        "image": "https://example.com/hero63.jpg",
+        "intelligence": 60,
+        "strength": 67,
+        "speed": 51,
+        "durability": 33,
+        "power": 77,
+        "combat": 89,
+        "voteCount": 317,
+        "lastVotedAt": "2025-02-01T18:28:23.084093",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084099",
+                "intelligence": 63,
+                "strength": 96,
+                "speed": 91,
+                "durability": 63,
+                "power": 80,
+                "combat": 45
+            },
+            {
+                "date": "2025-02-05T18:28:23.084109",
+                "intelligence": 64,
+                "strength": 77,
+                "speed": 95,
+                "durability": 50,
+                "power": 84,
+                "combat": 44
+            },
+            {
+                "date": "2025-01-29T18:28:23.084119",
+                "intelligence": 64,
+                "strength": 49,
+                "speed": 33,
+                "durability": 47,
+                "power": 82,
+                "combat": 84
+            }
+        ],
+        "trend": "steady",
+        "rank": 14,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.084131",
+        "status": "inactive"
+    },
+    {
+        "id": 64,
+        "name": "Hero64",
+        "image": "https://example.com/hero64.jpg",
+        "intelligence": 91,
+        "strength": 95,
+        "speed": 46,
+        "durability": 60,
+        "power": 90,
+        "combat": 32,
+        "voteCount": 313,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084146",
+                "intelligence": 44,
+                "strength": 60,
+                "speed": 92,
+                "durability": 97,
+                "power": 98,
+                "combat": 46
+            }
+        ],
+        "trend": "rising",
+        "rank": 29,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.084159",
+        "status": "inactive"
+    },
+    {
+        "id": 65,
+        "name": "Hero65",
+        "image": "https://example.com/hero65.jpg",
+        "intelligence": 88,
+        "strength": 64,
+        "speed": 64,
+        "durability": 51,
+        "power": 41,
+        "combat": 43,
+        "voteCount": 452,
+        "lastVotedAt": "2025-01-30T18:28:23.084170",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084179",
+                "intelligence": 40,
+                "strength": 66,
+                "speed": 57,
+                "durability": 84,
+                "power": 75,
+                "combat": 57
+            },
+            {
+                "date": "2025-02-05T18:28:23.084191",
+                "intelligence": 59,
+                "strength": 55,
+                "speed": 93,
+                "durability": 40,
+                "power": 41,
+                "combat": 37
+            },
+            {
+                "date": "2025-01-29T18:28:23.084198",
+                "intelligence": 72,
+                "strength": 52,
+                "speed": 95,
+                "durability": 81,
+                "power": 68,
+                "combat": 84
+            },
+            {
+                "date": "2025-01-22T18:28:23.084205",
+                "intelligence": 62,
+                "strength": 48,
+                "speed": 87,
+                "durability": 69,
+                "power": 42,
+                "combat": 47
+            },
+            {
+                "date": "2025-01-15T18:28:23.084212",
+                "intelligence": 44,
+                "strength": 91,
+                "speed": 63,
+                "durability": 40,
+                "power": 80,
+                "combat": 64
+            }
+        ],
+        "trend": "falling",
+        "rank": 62,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.084220",
+        "status": "active"
+    },
+    {
+        "id": 66,
+        "name": "Hero66",
+        "image": "https://example.com/hero66.jpg",
+        "intelligence": 45,
+        "strength": 79,
+        "speed": 75,
+        "durability": 53,
+        "power": 66,
+        "combat": 72,
+        "voteCount": 88,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084229",
+                "intelligence": 40,
+                "strength": 53,
+                "speed": 79,
+                "durability": 48,
+                "power": 61,
+                "combat": 87
+            },
+            {
+                "date": "2025-02-05T18:28:23.084235",
+                "intelligence": 37,
+                "strength": 46,
+                "speed": 54,
+                "durability": 78,
+                "power": 31,
+                "combat": 61
+            }
+        ],
+        "trend": "steady",
+        "rank": 95,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.084245",
+        "status": "active"
+    },
+    {
+        "id": 67,
+        "name": "Hero67",
+        "image": "https://example.com/hero67.jpg",
+        "intelligence": 84,
+        "strength": 39,
+        "speed": 68,
+        "durability": 79,
+        "power": 76,
+        "combat": 44,
+        "voteCount": 193,
+        "lastVotedAt": "2025-01-13T18:28:23.084252",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084256",
+                "intelligence": 31,
+                "strength": 46,
+                "speed": 68,
+                "durability": 43,
+                "power": 69,
+                "combat": 89
+            },
+            {
+                "date": "2025-02-05T18:28:23.084262",
+                "intelligence": 98,
+                "strength": 70,
+                "speed": 43,
+                "durability": 60,
+                "power": 74,
+                "combat": 59
+            }
+        ],
+        "trend": "falling",
+        "rank": 65,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.084271",
+        "status": "inactive"
+    },
+    {
+        "id": 68,
+        "name": "Hero68",
+        "image": "https://example.com/hero68.jpg",
+        "intelligence": 60,
+        "strength": 73,
+        "speed": 85,
+        "durability": 33,
+        "power": 74,
+        "combat": 45,
+        "voteCount": 316,
+        "lastVotedAt": "2025-01-21T18:28:23.084278",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084283",
+                "intelligence": 70,
+                "strength": 48,
+                "speed": 91,
+                "durability": 97,
+                "power": 94,
+                "combat": 36
+            },
+            {
+                "date": "2025-02-05T18:28:23.084289",
+                "intelligence": 93,
+                "strength": 86,
+                "speed": 96,
+                "durability": 49,
+                "power": 86,
+                "combat": 85
+            },
+            {
+                "date": "2025-01-29T18:28:23.084295",
+                "intelligence": 99,
+                "strength": 97,
+                "speed": 63,
+                "durability": 80,
+                "power": 100,
+                "combat": 86
+            },
+            {
+                "date": "2025-01-22T18:28:23.084301",
+                "intelligence": 41,
+                "strength": 87,
+                "speed": 46,
+                "durability": 39,
+                "power": 71,
+                "combat": 68
+            },
+            {
+                "date": "2025-01-15T18:28:23.084307",
+                "intelligence": 100,
+                "strength": 33,
+                "speed": 79,
+                "durability": 77,
+                "power": 49,
+                "combat": 65
+            }
+        ],
+        "trend": "steady",
+        "rank": 88,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.084315",
+        "status": "inactive"
+    },
+    {
+        "id": 69,
+        "name": "Hero69",
+        "image": "https://example.com/hero69.jpg",
+        "intelligence": 95,
+        "strength": 72,
+        "speed": 38,
+        "durability": 36,
+        "power": 97,
+        "combat": 69,
+        "voteCount": 403,
+        "lastVotedAt": "2025-01-30T18:28:23.084323",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084327",
+                "intelligence": 77,
+                "strength": 97,
+                "speed": 74,
+                "durability": 34,
+                "power": 54,
+                "combat": 75
+            },
+            {
+                "date": "2025-02-05T18:28:23.084333",
+                "intelligence": 39,
+                "strength": 80,
+                "speed": 90,
+                "durability": 60,
+                "power": 69,
+                "combat": 93
+            },
+            {
+                "date": "2025-01-29T18:28:23.084339",
+                "intelligence": 48,
+                "strength": 61,
+                "speed": 32,
+                "durability": 95,
+                "power": 80,
+                "combat": 41
+            },
+            {
+                "date": "2025-01-22T18:28:23.084346",
+                "intelligence": 83,
+                "strength": 72,
+                "speed": 89,
+                "durability": 71,
+                "power": 50,
+                "combat": 98
+            },
+            {
+                "date": "2025-01-15T18:28:23.084356",
+                "intelligence": 84,
+                "strength": 82,
+                "speed": 71,
+                "durability": 87,
+                "power": 32,
+                "combat": 36
+            }
+        ],
+        "trend": "falling",
+        "rank": 57,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.084368",
+        "status": "inactive"
+    },
+    {
+        "id": 70,
+        "name": "Hero70",
+        "image": "https://example.com/hero70.jpg",
+        "intelligence": 64,
+        "strength": 82,
+        "speed": 95,
+        "durability": 64,
+        "power": 85,
+        "combat": 41,
+        "voteCount": 293,
+        "lastVotedAt": "2025-01-16T18:28:23.084380",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084388",
+                "intelligence": 92,
+                "strength": 37,
+                "speed": 38,
+                "durability": 98,
+                "power": 67,
+                "combat": 61
+            },
+            {
+                "date": "2025-02-05T18:28:23.084398",
+                "intelligence": 62,
+                "strength": 82,
+                "speed": 55,
+                "durability": 40,
+                "power": 46,
+                "combat": 70
+            },
+            {
+                "date": "2025-01-29T18:28:23.084411",
+                "intelligence": 64,
+                "strength": 85,
+                "speed": 34,
+                "durability": 59,
+                "power": 96,
+                "combat": 60
+            }
+        ],
+        "trend": "steady",
+        "rank": 79,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.084425",
+        "status": "active"
+    },
+    {
+        "id": 71,
+        "name": "Hero71",
+        "image": "https://example.com/hero71.jpg",
+        "intelligence": 58,
+        "strength": 52,
+        "speed": 30,
+        "durability": 96,
+        "power": 39,
+        "combat": 41,
+        "voteCount": 322,
+        "lastVotedAt": "2025-01-20T18:28:23.084436",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084442",
+                "intelligence": 93,
+                "strength": 44,
+                "speed": 76,
+                "durability": 49,
+                "power": 70,
+                "combat": 49
+            },
+            {
+                "date": "2025-02-05T18:28:23.084448",
+                "intelligence": 56,
+                "strength": 69,
+                "speed": 54,
+                "durability": 76,
+                "power": 44,
+                "combat": 100
+            },
+            {
+                "date": "2025-01-29T18:28:23.084454",
+                "intelligence": 48,
+                "strength": 30,
+                "speed": 33,
+                "durability": 99,
+                "power": 35,
+                "combat": 40
+            },
+            {
+                "date": "2025-01-22T18:28:23.084465",
+                "intelligence": 95,
+                "strength": 59,
+                "speed": 46,
+                "durability": 81,
+                "power": 82,
+                "combat": 78
+            }
+        ],
+        "trend": "steady",
+        "rank": 17,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.084477",
+        "status": "inactive"
+    },
+    {
+        "id": 72,
+        "name": "Hero72",
+        "image": "https://example.com/hero72.jpg",
+        "intelligence": 39,
+        "strength": 63,
+        "speed": 54,
+        "durability": 54,
+        "power": 61,
+        "combat": 48,
+        "voteCount": 367,
+        "lastVotedAt": "2025-02-07T18:28:23.084489",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084497",
+                "intelligence": 86,
+                "strength": 97,
+                "speed": 59,
+                "durability": 78,
+                "power": 100,
+                "combat": 61
+            },
+            {
+                "date": "2025-02-05T18:28:23.084507",
+                "intelligence": 69,
+                "strength": 81,
+                "speed": 94,
+                "durability": 67,
+                "power": 63,
+                "combat": 85
+            },
+            {
+                "date": "2025-01-29T18:28:23.084516",
+                "intelligence": 74,
+                "strength": 58,
+                "speed": 95,
+                "durability": 88,
+                "power": 39,
+                "combat": 89
+            },
+            {
+                "date": "2025-01-22T18:28:23.084526",
+                "intelligence": 32,
+                "strength": 56,
+                "speed": 56,
+                "durability": 92,
+                "power": 33,
+                "combat": 58
+            },
+            {
+                "date": "2025-01-15T18:28:23.084535",
+                "intelligence": 77,
+                "strength": 43,
+                "speed": 31,
+                "durability": 34,
+                "power": 62,
+                "combat": 90
+            }
+        ],
+        "trend": "falling",
+        "rank": 1,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.084548",
+        "status": "active"
+    },
+    {
+        "id": 73,
+        "name": "Hero73",
+        "image": "https://example.com/hero73.jpg",
+        "intelligence": 90,
+        "strength": 83,
+        "speed": 37,
+        "durability": 41,
+        "power": 70,
+        "combat": 49,
+        "voteCount": 177,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084562",
+                "intelligence": 92,
+                "strength": 57,
+                "speed": 53,
+                "durability": 59,
+                "power": 40,
+                "combat": 46
+            },
+            {
+                "date": "2025-02-05T18:28:23.084573",
+                "intelligence": 90,
+                "strength": 44,
+                "speed": 80,
+                "durability": 73,
+                "power": 33,
+                "combat": 72
+            },
+            {
+                "date": "2025-01-29T18:28:23.084584",
+                "intelligence": 91,
+                "strength": 34,
+                "speed": 39,
+                "durability": 45,
+                "power": 91,
+                "combat": 47
+            },
+            {
+                "date": "2025-01-22T18:28:23.084594",
+                "intelligence": 55,
+                "strength": 78,
+                "speed": 85,
+                "durability": 48,
+                "power": 83,
+                "combat": 48
+            },
+            {
+                "date": "2025-01-15T18:28:23.084604",
+                "intelligence": 54,
+                "strength": 82,
+                "speed": 45,
+                "durability": 57,
+                "power": 42,
+                "combat": 46
+            }
+        ],
+        "trend": "falling",
+        "rank": 73,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.084619",
+        "status": "inactive"
+    },
+    {
+        "id": 74,
+        "name": "Hero74",
+        "image": "https://example.com/hero74.jpg",
+        "intelligence": 37,
+        "strength": 58,
+        "speed": 99,
+        "durability": 37,
+        "power": 100,
+        "combat": 79,
+        "voteCount": 387,
+        "lastVotedAt": "2025-01-15T18:28:23.084634",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084642",
+                "intelligence": 82,
+                "strength": 54,
+                "speed": 34,
+                "durability": 79,
+                "power": 48,
+                "combat": 95
+            },
+            {
+                "date": "2025-02-05T18:28:23.084650",
+                "intelligence": 66,
+                "strength": 57,
+                "speed": 98,
+                "durability": 61,
+                "power": 76,
+                "combat": 97
+            }
+        ],
+        "trend": "steady",
+        "rank": 75,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.084660",
+        "status": "inactive"
+    },
+    {
+        "id": 75,
+        "name": "Hero75",
+        "image": "https://example.com/hero75.jpg",
+        "intelligence": 66,
+        "strength": 75,
+        "speed": 41,
+        "durability": 43,
+        "power": 61,
+        "combat": 80,
+        "voteCount": 334,
+        "lastVotedAt": "2025-01-24T18:28:23.084672",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084680",
+                "intelligence": 83,
+                "strength": 62,
+                "speed": 69,
+                "durability": 79,
+                "power": 60,
+                "combat": 84
+            },
+            {
+                "date": "2025-02-05T18:28:23.084691",
+                "intelligence": 44,
+                "strength": 35,
+                "speed": 74,
+                "durability": 68,
+                "power": 71,
+                "combat": 95
+            },
+            {
+                "date": "2025-01-29T18:28:23.084706",
+                "intelligence": 79,
+                "strength": 49,
+                "speed": 72,
+                "durability": 38,
+                "power": 72,
+                "combat": 57
+            }
+        ],
+        "trend": "rising",
+        "rank": 38,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.084721",
+        "status": "inactive"
+    },
+    {
+        "id": 76,
+        "name": "Hero76",
+        "image": "https://example.com/hero76.jpg",
+        "intelligence": 79,
+        "strength": 65,
+        "speed": 93,
+        "durability": 97,
+        "power": 92,
+        "combat": 93,
+        "voteCount": 115,
+        "lastVotedAt": "2025-01-19T18:28:23.084733",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084742",
+                "intelligence": 55,
+                "strength": 74,
+                "speed": 78,
+                "durability": 67,
+                "power": 74,
+                "combat": 36
+            },
+            {
+                "date": "2025-02-05T18:28:23.084752",
+                "intelligence": 38,
+                "strength": 97,
+                "speed": 98,
+                "durability": 87,
+                "power": 62,
+                "combat": 74
+            }
+        ],
+        "trend": "falling",
+        "rank": 56,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.084764",
+        "status": "active"
+    },
+    {
+        "id": 77,
+        "name": "Hero77",
+        "image": "https://example.com/hero77.jpg",
+        "intelligence": 83,
+        "strength": 30,
+        "speed": 77,
+        "durability": 74,
+        "power": 55,
+        "combat": 94,
+        "voteCount": 199,
+        "lastVotedAt": "2025-02-10T18:28:23.084779",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084788",
+                "intelligence": 90,
+                "strength": 87,
+                "speed": 53,
+                "durability": 94,
+                "power": 76,
+                "combat": 37
+            },
+            {
+                "date": "2025-02-05T18:28:23.084798",
+                "intelligence": 89,
+                "strength": 93,
+                "speed": 93,
+                "durability": 98,
+                "power": 94,
+                "combat": 37
+            },
+            {
+                "date": "2025-01-29T18:28:23.084806",
+                "intelligence": 45,
+                "strength": 98,
+                "speed": 64,
+                "durability": 50,
+                "power": 91,
+                "combat": 44
+            },
+            {
+                "date": "2025-01-22T18:28:23.084813",
+                "intelligence": 34,
+                "strength": 38,
+                "speed": 49,
+                "durability": 61,
+                "power": 67,
+                "combat": 63
+            }
+        ],
+        "trend": "rising",
+        "rank": 100,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.084820",
+        "status": "inactive"
+    },
+    {
+        "id": 78,
+        "name": "Hero78",
+        "image": "https://example.com/hero78.jpg",
+        "intelligence": 59,
+        "strength": 54,
+        "speed": 49,
+        "durability": 79,
+        "power": 74,
+        "combat": 43,
+        "voteCount": 5,
+        "lastVotedAt": "2025-01-29T18:28:23.084828",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084833",
+                "intelligence": 53,
+                "strength": 55,
+                "speed": 76,
+                "durability": 84,
+                "power": 61,
+                "combat": 73
+            },
+            {
+                "date": "2025-02-05T18:28:23.084839",
+                "intelligence": 77,
+                "strength": 33,
+                "speed": 51,
+                "durability": 92,
+                "power": 54,
+                "combat": 75
+            },
+            {
+                "date": "2025-01-29T18:28:23.084845",
+                "intelligence": 46,
+                "strength": 48,
+                "speed": 62,
+                "durability": 93,
+                "power": 45,
+                "combat": 52
+            }
+        ],
+        "trend": "falling",
+        "rank": 16,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.084853",
+        "status": "active"
+    },
+    {
+        "id": 79,
+        "name": "Hero79",
+        "image": "https://example.com/hero79.jpg",
+        "intelligence": 100,
+        "strength": 81,
+        "speed": 95,
+        "durability": 98,
+        "power": 87,
+        "combat": 80,
+        "voteCount": 135,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084862",
+                "intelligence": 67,
+                "strength": 98,
+                "speed": 31,
+                "durability": 81,
+                "power": 92,
+                "combat": 95
+            },
+            {
+                "date": "2025-02-05T18:28:23.084868",
+                "intelligence": 37,
+                "strength": 40,
+                "speed": 93,
+                "durability": 100,
+                "power": 80,
+                "combat": 63
+            },
+            {
+                "date": "2025-01-29T18:28:23.084873",
+                "intelligence": 62,
+                "strength": 38,
+                "speed": 46,
+                "durability": 98,
+                "power": 38,
+                "combat": 55
+            },
+            {
+                "date": "2025-01-22T18:28:23.084882",
+                "intelligence": 36,
+                "strength": 59,
+                "speed": 43,
+                "durability": 36,
+                "power": 99,
+                "combat": 83
+            },
+            {
+                "date": "2025-01-15T18:28:23.084888",
+                "intelligence": 64,
+                "strength": 33,
+                "speed": 84,
+                "durability": 43,
+                "power": 65,
+                "combat": 62
+            }
+        ],
+        "trend": "rising",
+        "rank": 79,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.084896",
+        "status": "active"
+    },
+    {
+        "id": 80,
+        "name": "Hero80",
+        "image": "https://example.com/hero80.jpg",
+        "intelligence": 40,
+        "strength": 71,
+        "speed": 34,
+        "durability": 82,
+        "power": 42,
+        "combat": 51,
+        "voteCount": 430,
+        "lastVotedAt": "2025-02-02T18:28:23.084903",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084908",
+                "intelligence": 36,
+                "strength": 74,
+                "speed": 92,
+                "durability": 81,
+                "power": 79,
+                "combat": 94
+            },
+            {
+                "date": "2025-02-05T18:28:23.084914",
+                "intelligence": 40,
+                "strength": 78,
+                "speed": 81,
+                "durability": 40,
+                "power": 95,
+                "combat": 59
+            }
+        ],
+        "trend": "falling",
+        "rank": 8,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.084922",
+        "status": "active"
+    },
+    {
+        "id": 81,
+        "name": "Hero81",
+        "image": "https://example.com/hero81.jpg",
+        "intelligence": 40,
+        "strength": 100,
+        "speed": 38,
+        "durability": 82,
+        "power": 54,
+        "combat": 94,
+        "voteCount": 166,
+        "lastVotedAt": "2025-01-22T18:28:23.084929",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084933",
+                "intelligence": 72,
+                "strength": 81,
+                "speed": 57,
+                "durability": 34,
+                "power": 88,
+                "combat": 51
+            }
+        ],
+        "trend": "rising",
+        "rank": 51,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.084941",
+        "status": "active"
+    },
+    {
+        "id": 82,
+        "name": "Hero82",
+        "image": "https://example.com/hero82.jpg",
+        "intelligence": 74,
+        "strength": 33,
+        "speed": 94,
+        "durability": 35,
+        "power": 84,
+        "combat": 97,
+        "voteCount": 190,
+        "lastVotedAt": "2025-02-07T18:28:23.084950",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084954",
+                "intelligence": 82,
+                "strength": 99,
+                "speed": 92,
+                "durability": 52,
+                "power": 73,
+                "combat": 90
+            },
+            {
+                "date": "2025-02-05T18:28:23.084960",
+                "intelligence": 55,
+                "strength": 96,
+                "speed": 58,
+                "durability": 73,
+                "power": 41,
+                "combat": 57
+            },
+            {
+                "date": "2025-01-29T18:28:23.084966",
+                "intelligence": 66,
+                "strength": 81,
+                "speed": 93,
+                "durability": 82,
+                "power": 79,
+                "combat": 42
+            },
+            {
+                "date": "2025-01-22T18:28:23.084972",
+                "intelligence": 35,
+                "strength": 88,
+                "speed": 62,
+                "durability": 81,
+                "power": 69,
+                "combat": 89
+            }
+        ],
+        "trend": "rising",
+        "rank": 3,
+        "rankChange": -1,
+        "lastUpdated": "2025-02-12T18:28:23.084980",
+        "status": "active"
+    },
+    {
+        "id": 83,
+        "name": "Hero83",
+        "image": "https://example.com/hero83.jpg",
+        "intelligence": 38,
+        "strength": 99,
+        "speed": 58,
+        "durability": 99,
+        "power": 42,
+        "combat": 57,
+        "voteCount": 317,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.084988",
+                "intelligence": 45,
+                "strength": 31,
+                "speed": 89,
+                "durability": 93,
+                "power": 45,
+                "combat": 79
+            },
+            {
+                "date": "2025-02-05T18:28:23.084999",
+                "intelligence": 49,
+                "strength": 79,
+                "speed": 58,
+                "durability": 70,
+                "power": 64,
+                "combat": 97
+            },
+            {
+                "date": "2025-01-29T18:28:23.085006",
+                "intelligence": 54,
+                "strength": 52,
+                "speed": 32,
+                "durability": 78,
+                "power": 93,
+                "combat": 31
+            }
+        ],
+        "trend": "falling",
+        "rank": 76,
+        "rankChange": 1,
+        "lastUpdated": "2025-02-12T18:28:23.085017",
+        "status": "active"
+    },
+    {
+        "id": 84,
+        "name": "Hero84",
+        "image": "https://example.com/hero84.jpg",
+        "intelligence": 32,
+        "strength": 43,
+        "speed": 74,
+        "durability": 54,
+        "power": 56,
+        "combat": 56,
+        "voteCount": 353,
+        "lastVotedAt": "2025-01-13T18:28:23.085028",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085036",
+                "intelligence": 83,
+                "strength": 35,
+                "speed": 79,
+                "durability": 74,
+                "power": 93,
+                "combat": 71
+            },
+            {
+                "date": "2025-02-05T18:28:23.085046",
+                "intelligence": 34,
+                "strength": 37,
+                "speed": 33,
+                "durability": 39,
+                "power": 30,
+                "combat": 40
+            },
+            {
+                "date": "2025-01-29T18:28:23.085054",
+                "intelligence": 87,
+                "strength": 32,
+                "speed": 70,
+                "durability": 54,
+                "power": 41,
+                "combat": 74
+            },
+            {
+                "date": "2025-01-22T18:28:23.085062",
+                "intelligence": 47,
+                "strength": 57,
+                "speed": 68,
+                "durability": 49,
+                "power": 36,
+                "combat": 36
+            },
+            {
+                "date": "2025-01-15T18:28:23.085068",
+                "intelligence": 68,
+                "strength": 44,
+                "speed": 32,
+                "durability": 94,
+                "power": 39,
+                "combat": 49
+            }
+        ],
+        "trend": "rising",
+        "rank": 40,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.085078",
+        "status": "active"
+    },
+    {
+        "id": 85,
+        "name": "Hero85",
+        "image": "https://example.com/hero85.jpg",
+        "intelligence": 67,
+        "strength": 76,
+        "speed": 56,
+        "durability": 49,
+        "power": 80,
+        "combat": 33,
+        "voteCount": 432,
+        "lastVotedAt": "2025-02-11T18:28:23.085092",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085101",
+                "intelligence": 65,
+                "strength": 57,
+                "speed": 42,
+                "durability": 53,
+                "power": 96,
+                "combat": 76
+            },
+            {
+                "date": "2025-02-05T18:28:23.085112",
+                "intelligence": 36,
+                "strength": 48,
+                "speed": 30,
+                "durability": 99,
+                "power": 51,
+                "combat": 31
+            }
+        ],
+        "trend": "rising",
+        "rank": 43,
+        "rankChange": -2,
+        "lastUpdated": "2025-02-12T18:28:23.085124",
+        "status": "active"
+    },
+    {
+        "id": 86,
+        "name": "Hero86",
+        "image": "https://example.com/hero86.jpg",
+        "intelligence": 67,
+        "strength": 33,
+        "speed": 78,
+        "durability": 93,
+        "power": 84,
+        "combat": 96,
+        "voteCount": 337,
+        "lastVotedAt": "2025-01-29T18:28:23.085131",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085135",
+                "intelligence": 48,
+                "strength": 31,
+                "speed": 97,
+                "durability": 36,
+                "power": 50,
+                "combat": 38
+            },
+            {
+                "date": "2025-02-05T18:28:23.085141",
+                "intelligence": 60,
+                "strength": 70,
+                "speed": 83,
+                "durability": 67,
+                "power": 64,
+                "combat": 71
+            },
+            {
+                "date": "2025-01-29T18:28:23.085148",
+                "intelligence": 97,
+                "strength": 90,
+                "speed": 89,
+                "durability": 70,
+                "power": 79,
+                "combat": 43
+            },
+            {
+                "date": "2025-01-22T18:28:23.085155",
+                "intelligence": 98,
+                "strength": 35,
+                "speed": 39,
+                "durability": 65,
+                "power": 92,
+                "combat": 42
+            }
+        ],
+        "trend": "steady",
+        "rank": 26,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.085162",
+        "status": "inactive"
+    },
+    {
+        "id": 87,
+        "name": "Hero87",
+        "image": "https://example.com/hero87.jpg",
+        "intelligence": 70,
+        "strength": 52,
+        "speed": 75,
+        "durability": 62,
+        "power": 64,
+        "combat": 68,
+        "voteCount": 72,
+        "lastVotedAt": null,
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085171",
+                "intelligence": 54,
+                "strength": 69,
+                "speed": 74,
+                "durability": 75,
+                "power": 69,
+                "combat": 70
+            },
+            {
+                "date": "2025-02-05T18:28:23.085177",
+                "intelligence": 79,
+                "strength": 35,
+                "speed": 61,
+                "durability": 76,
+                "power": 55,
+                "combat": 37
+            },
+            {
+                "date": "2025-01-29T18:28:23.085186",
+                "intelligence": 80,
+                "strength": 63,
+                "speed": 77,
+                "durability": 49,
+                "power": 89,
+                "combat": 84
+            },
+            {
+                "date": "2025-01-22T18:28:23.085198",
+                "intelligence": 60,
+                "strength": 99,
+                "speed": 60,
+                "durability": 64,
+                "power": 43,
+                "combat": 78
+            }
+        ],
+        "trend": "falling",
+        "rank": 2,
+        "rankChange": -4,
+        "lastUpdated": "2025-02-12T18:28:23.085211",
+        "status": "inactive"
+    },
+    {
+        "id": 88,
+        "name": "Hero88",
+        "image": "https://example.com/hero88.jpg",
+        "intelligence": 69,
+        "strength": 33,
+        "speed": 98,
+        "durability": 63,
+        "power": 65,
+        "combat": 41,
+        "voteCount": 246,
+        "lastVotedAt": "2025-01-22T18:28:23.085223",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085231",
+                "intelligence": 45,
+                "strength": 56,
+                "speed": 59,
+                "durability": 68,
+                "power": 48,
+                "combat": 94
+            },
+            {
+                "date": "2025-02-05T18:28:23.085239",
+                "intelligence": 62,
+                "strength": 60,
+                "speed": 84,
+                "durability": 77,
+                "power": 58,
+                "combat": 69
+            },
+            {
+                "date": "2025-01-29T18:28:23.085246",
+                "intelligence": 31,
+                "strength": 64,
+                "speed": 35,
+                "durability": 72,
+                "power": 66,
+                "combat": 32
+            },
+            {
+                "date": "2025-01-22T18:28:23.085252",
+                "intelligence": 73,
+                "strength": 82,
+                "speed": 30,
+                "durability": 50,
+                "power": 90,
+                "combat": 61
+            },
+            {
+                "date": "2025-01-15T18:28:23.085258",
+                "intelligence": 85,
+                "strength": 99,
+                "speed": 97,
+                "durability": 45,
+                "power": 41,
+                "combat": 85
+            }
+        ],
+        "trend": "falling",
+        "rank": 65,
+        "rankChange": 3,
+        "lastUpdated": "2025-02-12T18:28:23.085267",
+        "status": "active"
+    },
+    {
+        "id": 89,
+        "name": "Hero89",
+        "image": "https://example.com/hero89.jpg",
+        "intelligence": 52,
+        "strength": 59,
+        "speed": 35,
+        "durability": 50,
+        "power": 59,
+        "combat": 84,
+        "voteCount": 64,
+        "lastVotedAt": "2025-01-15T18:28:23.085274",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085293",
+                "intelligence": 52,
+                "strength": 92,
+                "speed": 55,
+                "durability": 83,
+                "power": 78,
+                "combat": 85
+            },
+            {
+                "date": "2025-02-05T18:28:23.085299",
+                "intelligence": 38,
+                "strength": 98,
+                "speed": 74,
+                "durability": 98,
+                "power": 67,
+                "combat": 86
+            },
+            {
+                "date": "2025-01-29T18:28:23.085308",
+                "intelligence": 55,
+                "strength": 91,
+                "speed": 95,
+                "durability": 60,
+                "power": 74,
+                "combat": 49
+            },
+            {
+                "date": "2025-01-22T18:28:23.085318",
+                "intelligence": 87,
+                "strength": 38,
+                "speed": 38,
+                "durability": 53,
+                "power": 89,
+                "combat": 79
+            }
+        ],
+        "trend": "falling",
+        "rank": 72,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.085331",
+        "status": "active"
+    },
+    {
+        "id": 90,
+        "name": "Hero90",
+        "image": "https://example.com/hero90.jpg",
+        "intelligence": 80,
+        "strength": 60,
+        "speed": 87,
+        "durability": 83,
+        "power": 40,
+        "combat": 47,
+        "voteCount": 439,
+        "lastVotedAt": "2025-01-29T18:28:23.085340",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085345",
+                "intelligence": 70,
+                "strength": 32,
+                "speed": 85,
+                "durability": 70,
+                "power": 67,
+                "combat": 60
+            },
+            {
+                "date": "2025-02-05T18:28:23.085351",
+                "intelligence": 64,
+                "strength": 75,
+                "speed": 52,
+                "durability": 91,
+                "power": 83,
+                "combat": 81
+            },
+            {
+                "date": "2025-01-29T18:28:23.085357",
+                "intelligence": 35,
+                "strength": 53,
+                "speed": 50,
+                "durability": 51,
+                "power": 48,
+                "combat": 97
+            },
+            {
+                "date": "2025-01-22T18:28:23.085363",
+                "intelligence": 34,
+                "strength": 34,
+                "speed": 93,
+                "durability": 70,
+                "power": 66,
+                "combat": 78
+            },
+            {
+                "date": "2025-01-15T18:28:23.085369",
+                "intelligence": 68,
+                "strength": 50,
+                "speed": 80,
+                "durability": 78,
+                "power": 45,
+                "combat": 69
+            }
+        ],
+        "trend": "rising",
+        "rank": 74,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.085380",
+        "status": "active"
+    },
+    {
+        "id": 91,
+        "name": "Hero91",
+        "image": "https://example.com/hero91.jpg",
+        "intelligence": 66,
+        "strength": 35,
+        "speed": 81,
+        "durability": 56,
+        "power": 78,
+        "combat": 78,
+        "voteCount": 240,
+        "lastVotedAt": "2025-01-14T18:28:23.085390",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085397",
+                "intelligence": 48,
+                "strength": 57,
+                "speed": 75,
+                "durability": 46,
+                "power": 58,
+                "combat": 39
+            },
+            {
+                "date": "2025-02-05T18:28:23.085406",
+                "intelligence": 67,
+                "strength": 48,
+                "speed": 72,
+                "durability": 83,
+                "power": 62,
+                "combat": 87
+            },
+            {
+                "date": "2025-01-29T18:28:23.085416",
+                "intelligence": 50,
+                "strength": 57,
+                "speed": 67,
+                "durability": 53,
+                "power": 36,
+                "combat": 100
+            },
+            {
+                "date": "2025-01-22T18:28:23.085426",
+                "intelligence": 85,
+                "strength": 36,
+                "speed": 83,
+                "durability": 52,
+                "power": 30,
+                "combat": 100
+            }
+        ],
+        "trend": "steady",
+        "rank": 14,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.085440",
+        "status": "inactive"
+    },
+    {
+        "id": 92,
+        "name": "Hero92",
+        "image": "https://example.com/hero92.jpg",
+        "intelligence": 77,
+        "strength": 32,
+        "speed": 80,
+        "durability": 57,
+        "power": 41,
+        "combat": 41,
+        "voteCount": 175,
+        "lastVotedAt": "2025-01-19T18:28:23.085453",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085461",
+                "intelligence": 97,
+                "strength": 83,
+                "speed": 30,
+                "durability": 83,
+                "power": 74,
+                "combat": 66
+            },
+            {
+                "date": "2025-02-05T18:28:23.085471",
+                "intelligence": 71,
+                "strength": 37,
+                "speed": 54,
+                "durability": 47,
+                "power": 66,
+                "combat": 97
+            },
+            {
+                "date": "2025-01-29T18:28:23.085481",
+                "intelligence": 86,
+                "strength": 69,
+                "speed": 58,
+                "durability": 45,
+                "power": 40,
+                "combat": 61
+            }
+        ],
+        "trend": "falling",
+        "rank": 96,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.085496",
+        "status": "active"
+    },
+    {
+        "id": 93,
+        "name": "Hero93",
+        "image": "https://example.com/hero93.jpg",
+        "intelligence": 61,
+        "strength": 74,
+        "speed": 45,
+        "durability": 54,
+        "power": 54,
+        "combat": 80,
+        "voteCount": 156,
+        "lastVotedAt": "2025-02-01T18:28:23.085509",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085517",
+                "intelligence": 39,
+                "strength": 32,
+                "speed": 74,
+                "durability": 79,
+                "power": 86,
+                "combat": 60
+            },
+            {
+                "date": "2025-02-05T18:28:23.085527",
+                "intelligence": 42,
+                "strength": 32,
+                "speed": 72,
+                "durability": 96,
+                "power": 33,
+                "combat": 71
+            }
+        ],
+        "trend": "steady",
+        "rank": 31,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.085543",
+        "status": "inactive"
+    },
+    {
+        "id": 94,
+        "name": "Hero94",
+        "image": "https://example.com/hero94.jpg",
+        "intelligence": 95,
+        "strength": 60,
+        "speed": 59,
+        "durability": 93,
+        "power": 60,
+        "combat": 70,
+        "voteCount": 282,
+        "lastVotedAt": "2025-01-30T18:28:23.085557",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085564",
+                "intelligence": 44,
+                "strength": 55,
+                "speed": 97,
+                "durability": 40,
+                "power": 50,
+                "combat": 53
+            },
+            {
+                "date": "2025-02-05T18:28:23.085575",
+                "intelligence": 83,
+                "strength": 62,
+                "speed": 81,
+                "durability": 96,
+                "power": 35,
+                "combat": 81
+            }
+        ],
+        "trend": "falling",
+        "rank": 11,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.085589",
+        "status": "active"
+    },
+    {
+        "id": 95,
+        "name": "Hero95",
+        "image": "https://example.com/hero95.jpg",
+        "intelligence": 58,
+        "strength": 55,
+        "speed": 99,
+        "durability": 72,
+        "power": 97,
+        "combat": 33,
+        "voteCount": 490,
+        "lastVotedAt": "2025-01-22T18:28:23.085621",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085631",
+                "intelligence": 47,
+                "strength": 61,
+                "speed": 62,
+                "durability": 41,
+                "power": 66,
+                "combat": 80
+            },
+            {
+                "date": "2025-02-05T18:28:23.085641",
+                "intelligence": 44,
+                "strength": 89,
+                "speed": 31,
+                "durability": 62,
+                "power": 67,
+                "combat": 86
+            },
+            {
+                "date": "2025-01-29T18:28:23.085651",
+                "intelligence": 49,
+                "strength": 69,
+                "speed": 94,
+                "durability": 36,
+                "power": 53,
+                "combat": 96
+            },
+            {
+                "date": "2025-01-22T18:28:23.085661",
+                "intelligence": 83,
+                "strength": 65,
+                "speed": 35,
+                "durability": 51,
+                "power": 30,
+                "combat": 36
+            },
+            {
+                "date": "2025-01-15T18:28:23.085672",
+                "intelligence": 93,
+                "strength": 63,
+                "speed": 88,
+                "durability": 73,
+                "power": 76,
+                "combat": 77
+            }
+        ],
+        "trend": "steady",
+        "rank": 30,
+        "rankChange": -3,
+        "lastUpdated": "2025-02-12T18:28:23.085687",
+        "status": "inactive"
+    },
+    {
+        "id": 96,
+        "name": "Hero96",
+        "image": "https://example.com/hero96.jpg",
+        "intelligence": 37,
+        "strength": 79,
+        "speed": 51,
+        "durability": 82,
+        "power": 56,
+        "combat": 74,
+        "voteCount": 34,
+        "lastVotedAt": "2025-01-29T18:28:23.085699",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085707",
+                "intelligence": 87,
+                "strength": 98,
+                "speed": 89,
+                "durability": 48,
+                "power": 61,
+                "combat": 77
+            }
+        ],
+        "trend": "falling",
+        "rank": 34,
+        "rankChange": 2,
+        "lastUpdated": "2025-02-12T18:28:23.085722",
+        "status": "active"
+    },
+    {
+        "id": 97,
+        "name": "Hero97",
+        "image": "https://example.com/hero97.jpg",
+        "intelligence": 63,
+        "strength": 57,
+        "speed": 65,
+        "durability": 55,
+        "power": 78,
+        "combat": 32,
+        "voteCount": 347,
+        "lastVotedAt": "2025-01-31T18:28:23.085735",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085744",
+                "intelligence": 95,
+                "strength": 78,
+                "speed": 92,
+                "durability": 46,
+                "power": 93,
+                "combat": 62
+            },
+            {
+                "date": "2025-02-05T18:28:23.085754",
+                "intelligence": 77,
+                "strength": 82,
+                "speed": 47,
+                "durability": 97,
+                "power": 47,
+                "combat": 70
+            },
+            {
+                "date": "2025-01-29T18:28:23.085784",
+                "intelligence": 40,
+                "strength": 53,
+                "speed": 77,
+                "durability": 36,
+                "power": 65,
+                "combat": 49
+            },
+            {
+                "date": "2025-01-22T18:28:23.085798",
+                "intelligence": 82,
+                "strength": 96,
+                "speed": 92,
+                "durability": 78,
+                "power": 88,
+                "combat": 45
+            },
+            {
+                "date": "2025-01-15T18:28:23.085808",
+                "intelligence": 39,
+                "strength": 62,
+                "speed": 75,
+                "durability": 81,
+                "power": 67,
+                "combat": 41
+            }
+        ],
+        "trend": "rising",
+        "rank": 47,
+        "rankChange": 4,
+        "lastUpdated": "2025-02-12T18:28:23.085823",
+        "status": "active"
+    },
+    {
+        "id": 98,
+        "name": "Hero98",
+        "image": "https://example.com/hero98.jpg",
+        "intelligence": 98,
+        "strength": 79,
+        "speed": 91,
+        "durability": 100,
+        "power": 92,
+        "combat": 45,
+        "voteCount": 63,
+        "lastVotedAt": "2025-01-27T18:28:23.085836",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.085859",
+                "intelligence": 57,
+                "strength": 95,
+                "speed": 75,
+                "durability": 79,
+                "power": 91,
+                "combat": 46
+            },
+            {
+                "date": "2025-02-05T18:28:23.085869",
+                "intelligence": 69,
+                "strength": 40,
+                "speed": 83,
+                "durability": 73,
+                "power": 58,
+                "combat": 46
+            },
+            {
+                "date": "2025-01-29T18:28:23.085878",
+                "intelligence": 94,
+                "strength": 64,
+                "speed": 75,
+                "durability": 45,
+                "power": 88,
+                "combat": 80
+            },
+            {
+                "date": "2025-01-22T18:28:23.085888",
+                "intelligence": 84,
+                "strength": 39,
+                "speed": 72,
+                "durability": 30,
+                "power": 82,
+                "combat": 33
+            },
+            {
+                "date": "2025-01-15T18:28:23.085897",
+                "intelligence": 79,
+                "strength": 89,
+                "speed": 88,
+                "durability": 70,
+                "power": 57,
+                "combat": 69
+            }
+        ],
+        "trend": "rising",
+        "rank": 36,
+        "rankChange": 5,
+        "lastUpdated": "2025-02-12T18:28:23.085909",
+        "status": "active"
+    },
+    {
+        "id": 99,
+        "name": "Hero99",
+        "image": "https://example.com/hero99.jpg",
+        "intelligence": 88,
+        "strength": 53,
+        "speed": 84,
+        "durability": 31,
+        "power": 56,
+        "combat": 35,
+        "voteCount": 443,
+        "lastVotedAt": "2025-02-01T18:28:23.086417",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.086444",
+                "intelligence": 31,
+                "strength": 92,
+                "speed": 73,
+                "durability": 93,
+                "power": 31,
+                "combat": 48
+            },
+            {
+                "date": "2025-02-05T18:28:23.086457",
+                "intelligence": 61,
+                "strength": 60,
+                "speed": 100,
+                "durability": 60,
+                "power": 37,
+                "combat": 69
+            },
+            {
+                "date": "2025-01-29T18:28:23.086469",
+                "intelligence": 83,
+                "strength": 80,
+                "speed": 48,
+                "durability": 74,
+                "power": 30,
+                "combat": 70
+            }
+        ],
+        "trend": "rising",
+        "rank": 83,
+        "rankChange": 0,
+        "lastUpdated": "2025-02-12T18:28:23.086482",
+        "status": "inactive"
+    },
+    {
+        "id": 100,
+        "name": "Hero100",
+        "image": "https://example.com/hero100.jpg",
+        "intelligence": 67,
+        "strength": 50,
+        "speed": 48,
+        "durability": 77,
+        "power": 51,
+        "combat": 53,
+        "voteCount": 56,
+        "lastVotedAt": "2025-02-06T18:28:23.086505",
+        "statHistory": [
+            {
+                "date": "2025-02-12T18:28:23.086510",
+                "intelligence": 42,
+                "strength": 78,
+                "speed": 39,
+                "durability": 99,
+                "power": 89,
+                "combat": 59
+            },
+            {
+                "date": "2025-02-05T18:28:23.086517",
+                "intelligence": 56,
+                "strength": 98,
+                "speed": 50,
+                "durability": 71,
+                "power": 86,
+                "combat": 93
+            },
+            {
+                "date": "2025-01-29T18:28:23.086523",
+                "intelligence": 79,
+                "strength": 51,
+                "speed": 64,
+                "durability": 64,
+                "power": 33,
+                "combat": 90
+            },
+            {
+                "date": "2025-01-22T18:28:23.086529",
+                "intelligence": 56,
+                "strength": 68,
+                "speed": 90,
+                "durability": 90,
+                "power": 71,
+                "combat": 60
+            },
+            {
+                "date": "2025-01-15T18:28:23.086535",
+                "intelligence": 32,
+                "strength": 46,
+                "speed": 36,
+                "durability": 82,
+                "power": 59,
+                "combat": 59
+            }
+        ],
+        "trend": "rising",
+        "rank": 86,
+        "rankChange": -5,
+        "lastUpdated": "2025-02-12T18:28:23.086543",
+        "status": "active"
+    }
+]

@@ -32,4 +32,7 @@ build/
 .idea/
 *.swp
 
-.env
+.envbackend/src/auth/firebase-service-account.json
+auth/firebase-service-account.json
+src/auth/firebase-service-account.json
+backend/src/auth/firebase-service-account.json
