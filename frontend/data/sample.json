@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Hero1",
+      "image": "https://example.com/hero1.jpg",
+      "intelligence": 91,
+      "strength": 87,
+      "speed": 66,
+      "durability": 99,
+      "power": 64,
+      "combat": 58,
+      "voteCount": 457,
+      "lastVotedAt": "2025-02-03T18:28:23.081340",
+      "trend": "steady",
+      "rank": 53,
+      "rankChange": 5
+    },
+    {
+      "name": "Hero2",
+      "image": "https://example.com/hero2.jpg",
+      "intelligence": 85,
+      "strength": 90,
+      "speed": 75,
+      "durability": 88,
+      "power": 70,
+      "combat": 80,
+      "voteCount": 500,
+      "lastVotedAt": "2025-02-05T15:30:00.000Z",
+      "trend": "rising",
+      "rank": 45,
+      "rankChange": 8
+    },
+    {
+      "name": "Hero3",
+      "image": "https://example.com/hero3.jpg",
+      "intelligence": 80,
+      "strength": 95,
+      "speed": 85,
+      "durability": 90,
+      "power": 78,
+      "combat": 77,
+      "voteCount": 620,
+      "lastVotedAt": "2025-02-07T12:45:00.000Z",
+      "trend": "falling",
+      "rank": 30,
+      "rankChange": -3
+    }
+  ]
+  
